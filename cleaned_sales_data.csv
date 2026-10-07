@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Product,Quantity,Unit_Price,Sales,City,Region,Payment_Mode,Year,Month,Month_Name
+ORD1001,2025-10-06,CUST223,Keerthi,Clothing,T-Shirt,2,699,1398,Mumbai,West,Cash,2025,10,October
+ORD1002,2025-03-30,CUST287,Meena,Books,Python Programming,2,599,1198,Coimbatore,South,Cash,2025,3,March
+ORD1003,2025-06-27,CUST249,Rahul,Electronics,Wireless Headphones,2,1499,2998,Chennai,South,Cash,2025,6,June
+ORD1004,2025-07-16,CUST204,Keerthi,Clothing,Jacket,4,2999,11996,Bangalore,South,UPI,2025,7,July
+ORD1005,2025-11-03,CUST343,Divya,Clothing,Sneakers,1,2499,2499,Pune,West,UPI,2025,11,November
+ORD1006,2025-09-24,CUST331,Anjali,Books,AI Basics,3,649,1947,Pune,West,Net Banking,2025,9,September
+ORD1007,2025-09-25,CUST306,Karthik,Electronics,Keyboard,5,899,4495,Delhi,North,Credit Card,2025,9,September
+ORD1008,2025-03-15,CUST298,Meena,Electronics,Mouse,3,599,1797,Delhi,North,Credit Card,2025,3,March
+ORD1009,2025-01-08,CUST187,Sanjay,Clothing,Jacket,3,2999,8997,Chennai,South,Net Banking,2025,1,January
+ORD1010,2025-10-24,CUST242,Vijay,Home,Desk,1,2999,2999,Chennai,South,Net Banking,2025,10,October
+ORD1011,2025-06-13,CUST299,Vijay,Clothing,Jacket,1,2999,2999,Delhi,North,Cash,2025,6,June
+ORD1012,2025-03-26,CUST146,Arun,Clothing,Jeans,1,1599,1599,Hyderabad,South,Net Banking,2025,3,March
+ORD1013,2025-03-13,CUST388,Keerthi,Clothing,Hoodie,2,1899,3798,Hyderabad,South,Debit Card,2025,3,March
+ORD1014,2025-02-24,CUST115,Karthik,Clothing,Jacket,4,2999,11996,Bangalore,South,Credit Card,2025,2,February
+ORD1015,2025-02-16,CUST144,Divya,Books,Python Programming,2,599,1198,Mumbai,West,Net Banking,2025,2,February
+ORD1016,2025-08-26,CUST269,Divya,Electronics,Bluetooth Speaker,4,2199,8796,Bangalore,South,Debit Card,2025,8,August
+ORD1017,2025-04-14,CUST144,Ravi,Books,SQL Guide,4,499,1996,Mumbai,West,Debit Card,2025,4,April
+ORD1018,2025-07-29,CUST198,Priya,Books,SQL Guide,3,499,1497,Chennai,South,Debit Card,2025,7,July
+ORD1019,2025-02-11,CUST361,Vijay,Books,Data Analytics,3,799,2397,Coimbatore,South,Debit Card,2025,2,February
+ORD1020,2025-11-12,CUST209,Keerthi,Clothing,Jacket,4,2999,11996,Bangalore,South,Cash,2025,11,November
+ORD1021,2025-09-25,CUST383,Anjali,Home,Backpack,4,1299,5196,Bangalore,South,Debit Card,2025,9,September
+ORD1022,2025-09-20,CUST204,Karthik,Electronics,Wireless Headphones,2,1499,2998,Mumbai,West,Cash,2025,9,September
+ORD1023,2025-12-02,CUST356,Unknown,Home,Table Lamp,2,799,1598,Kochi,South,Cash,2025,12,December
+ORD1024,2025-12-31,CUST306,Priya,Books,SQL Guide,3,499,1497,Chennai,South,Debit Card,2025,12,December
+ORD1025,2025-09-16,CUST143,Karthik,Books,Python Programming,1,599,599,Chennai,South,Credit Card,2025,9,September
+ORD1026,2025-10-10,CUST345,Keerthi,Home,Desk,4,2999,11996,Pune,West,Debit Card,2025,10,October
+ORD1027,2025-04-24,CUST387,Sneha,Home,Backpack,2,1299,2598,Kochi,South,Debit Card,2025,4,April
+ORD1028,2025-12-29,CUST373,Divya,Home,Office Chair,3,5499,16497,Mumbai,West,Debit Card,2025,12,December
+ORD1029,2025-02-09,CUST183,Sneha,Books,Python Programming,2,599,1198,Chennai,South,Credit Card,2025,2,February
+ORD1030,2025-08-08,CUST210,Karthik,Books,Data Analytics,4,799,3196,Kochi,South,UPI,2025,8,August
+ORD1031,2025-05-09,CUST290,Keerthi,Electronics,Smart Watch,4,3299,13196,Delhi,North,UPI,2025,5,May
+ORD1032,2025-01-08,CUST388,Divya,Electronics,Wireless Headphones,5,1499,7495,Kochi,South,Cash,2025,1,January
+ORD1033,2025-04-11,CUST351,Ravi,Books,AI Basics,1,649,649,Hyderabad,South,Cash,2025,4,April
+ORD1034,2025-06-25,CUST312,Sneha,Home,Table Lamp,5,799,3995,Pune,West,Credit Card,2025,6,June
+ORD1035,2025-04-17,CUST391,Rahul,Home,Office Chair,3,5499,16497,Delhi,North,Net Banking,2025,4,April
+ORD1036,2025-04-11,CUST233,Priya,Electronics,Wireless Headphones,2,1499,2998,Coimbatore,South,UPI,2025,4,April
+ORD1037,2025-09-17,CUST301,Anjali,Books,Data Analytics,3,799,2397,Bangalore,South,Cash,2025,9,September
+ORD1038,2025-09-03,CUST385,Vijay,Electronics,Wireless Headphones,4,1499,5996,Pune,West,UPI,2025,9,September
+ORD1039,2025-10-02,CUST195,Priya,Electronics,Mouse,5,599,2995,Coimbatore,South,Credit Card,2025,10,October
+ORD1040,2025-02-01,CUST378,Sneha,Clothing,Sneakers,5,2499,12495,Bangalore,South,Credit Card,2025,2,February
+ORD1041,2025-05-17,CUST319,Divya,Clothing,T-Shirt,5,699,3495,Hyderabad,South,Net Banking,2025,5,May
+ORD1042,2025-01-12,CUST189,Ravi,Clothing,Jacket,3,2999,8997,Kochi,South,Net Banking,2025,1,January
+ORD1043,2025-10-29,CUST172,Rahul,Home,Backpack,4,1299,5196,Chennai,South,Credit Card,2025,10,October
+ORD1044,2025-01-16,CUST347,Ravi,Books,Data Analytics,2,799,1598,Delhi,North,Cash,2025,1,January
+ORD1045,2025-05-09,CUST229,Rahul,Books,AI Basics,2,649,1298,Mumbai,West,UPI,2025,5,May
+ORD1046,2025-03-04,CUST312,Vijay,Books,AI Basics,3,649,1947,Delhi,North,Debit Card,2025,3,March
+ORD1047,2025-04-19,CUST196,Ravi,Books,AI Basics,5,649,3245,Hyderabad,South,Net Banking,2025,4,April
+ORD1048,2025-01-21,CUST175,Rahul,Clothing,Jacket,1,2999,2999,Coimbatore,South,Debit Card,2025,1,January
+ORD1049,2025-06-07,CUST154,Ravi,Home,Office Chair,3,5499,16497,Mumbai,West,Cash,2025,6,June
+ORD1050,2025-09-26,CUST154,Priya,Home,Office Chair,3,5499,16497,Chennai,South,Net Banking,2025,9,September
+ORD1051,2025-06-11,CUST318,Meena,Clothing,Hoodie,4,1899,7596,Hyderabad,South,Debit Card,2025,6,June
+ORD1052,2025-09-17,CUST116,Rahul,Home,Table Lamp,2,799,1598,Mumbai,West,Cash,2025,9,September
+ORD1053,2025-04-12,CUST199,Vijay,Clothing,Jacket,3,2999,8997,Hyderabad,South,UPI,2025,4,April
+ORD1054,2025-08-11,CUST120,Rahul,Books,Python Programming,3,599,1797,Kochi,South,Cash,2025,8,August
+ORD1055,2025-02-28,CUST146,Rahul,Clothing,T-Shirt,5,699,3495,Hyderabad,South,Net Banking,2025,2,February
+ORD1056,2025-09-04,CUST293,Sanjay,Books,Data Analytics,5,799,3995,Chennai,South,Credit Card,2025,9,September
+ORD1057,2025-05-08,CUST158,Priya,Books,AI Basics,1,649,649,Pune,West,UPI,2025,5,May
+ORD1058,2025-10-10,CUST211,Sneha,Electronics,Mouse,4,599,2396,Bangalore,South,Debit Card,2025,10,October
+ORD1059,2025-11-21,CUST229,Arun,Clothing,Sneakers,1,2499,2499,Mumbai,West,Net Banking,2025,11,November
+ORD1060,2025-01-25,CUST294,Meena,Electronics,Wireless Headphones,5,1499,7495,Kochi,South,Credit Card,2025,1,January
+ORD1061,2025-05-11,CUST108,Rahul,Clothing,T-Shirt,2,699,1398,Chennai,South,Cash,2025,5,May
+ORD1062,2025-12-19,CUST129,Anjali,Clothing,Jeans,5,1599,7995,Hyderabad,South,Credit Card,2025,12,December
+ORD1063,2025-07-15,CUST212,Rahul,Electronics,Keyboard,4,899,3596,Kochi,South,Net Banking,2025,7,July
+ORD1064,2025-10-08,CUST261,Sanjay,Electronics,Bluetooth Speaker,5,2199,10995,Chennai,South,Net Banking,2025,10,October
+ORD1065,2025-06-03,CUST231,Ravi,Clothing,Jeans,4,1599,6396,Pune,West,Credit Card,2025,6,June
+ORD1066,2025-05-13,CUST288,Sneha,Home,Office Chair,4,5499,21996,Kochi,South,Cash,2025,5,May
+ORD1067,2025-08-15,CUST263,Anjali,Books,Data Analytics,4,799,3196,Kochi,South,Credit Card,2025,8,August
+ORD1068,2025-07-08,CUST297,Meena,Electronics,Smart Watch,4,3299,13196,Bangalore,South,Net Banking,2025,7,July
+ORD1069,2025-09-22,CUST304,Anjali,Books,SQL Guide,4,499,1996,Delhi,North,Net Banking,2025,9,September
+ORD1070,2025-05-14,CUST312,Priya,Home,Water Bottle,2,499,998,Mumbai,West,Debit Card,2025,5,May
+ORD1071,2025-07-30,CUST209,Vijay,Home,Table Lamp,1,799,799,Bangalore,South,Debit Card,2025,7,July
+ORD1072,2025-03-01,CUST376,Vijay,Home,Water Bottle,3,499,1497,Coimbatore,South,UPI,2025,3,March
+ORD1073,2025-12-30,CUST173,Meena,Electronics,Mouse,1,599,599,Mumbai,West,Net Banking,2025,12,December
+ORD1074,2025-12-30,CUST267,Keerthi,Home,Desk,4,2999,11996,Bangalore,South,Debit Card,2025,12,December
+ORD1075,2025-08-01,CUST360,Sneha,Electronics,Wireless Headphones,2,1499,2998,Hyderabad,South,Credit Card,2025,8,August
+ORD1076,2025-08-04,CUST343,Keerthi,Home,Table Lamp,5,799,3995,Mumbai,West,Cash,2025,8,August
+ORD1077,2025-08-14,CUST375,Vijay,Books,AI Basics,2,649,1298,Mumbai,West,Credit Card,2025,8,August
+ORD1078,2025-05-11,CUST202,Karthik,Books,AI Basics,4,649,2596,Chennai,South,Cash,2025,5,May
+ORD1079,2025-03-17,CUST273,Sanjay,Clothing,Jeans,2,1599,3198,Hyderabad,South,Debit Card,2025,3,March
+ORD1080,2025-10-13,CUST271,Meena,Books,Data Analytics,2,799,1598,Coimbatore,South,UPI,2025,10,October
+ORD1081,2025-10-04,CUST241,Meena,Clothing,Hoodie,4,1899,7596,Delhi,North,Credit Card,2025,10,October
+ORD1082,2025-06-05,CUST288,Arun,Books,Web Development,2,699,1398,Kochi,South,Credit Card,2025,6,June
+ORD1083,2025-09-05,CUST186,Arun,Electronics,Bluetooth Speaker,3,2199,6597,Pune,West,Credit Card,2025,9,September
+ORD1084,2025-08-06,CUST152,Priya,Books,SQL Guide,3,499,1497,Bangalore,South,Cash,2025,8,August
+ORD1085,2025-07-09,CUST211,Priya,Clothing,Jeans,2,1599,3198,Chennai,South,Debit Card,2025,7,July
+ORD1086,2025-06-12,CUST143,Arun,Clothing,Jeans,5,1599,7995,Bangalore,South,Credit Card,2025,6,June
+ORD1087,2025-06-29,CUST311,Keerthi,Home,Desk,4,2999,11996,Coimbatore,South,Credit Card,2025,6,June
+ORD1088,2025-02-03,CUST300,Vijay,Electronics,Smart Watch,3,3299,9897,Kochi,South,UPI,2025,2,February
+ORD1089,2025-02-10,CUST398,Divya,Books,SQL Guide,5,499,2495,Coimbatore,South,UPI,2025,2,February
+ORD1090,2025-11-03,CUST340,Meena,Home,Water Bottle,2,499,998,Mumbai,West,Debit Card,2025,11,November
+ORD1091,2025-12-04,CUST215,Karthik,Books,Python Programming,5,599,2995,Pune,West,Debit Card,2025,12,December
+ORD1092,2025-11-10,CUST126,Meena,Books,Python Programming,1,599,599,Coimbatore,South,Net Banking,2025,11,November
+ORD1093,2025-03-16,CUST399,Rahul,Home,Water Bottle,3,499,1497,Bangalore,South,UPI,2025,3,March
+ORD1094,2025-10-06,CUST177,Sneha,Home,Office Chair,2,5499,10998,Hyderabad,South,Net Banking,2025,10,October
+ORD1095,2025-06-25,CUST237,Sanjay,Home,Desk,4,2999,11996,Hyderabad,South,Cash,2025,6,June
+ORD1096,2025-05-30,CUST120,Divya,Home,Table Lamp,2,799,1598,Mumbai,West,Net Banking,2025,5,May
+ORD1097,2025-09-30,CUST311,Karthik,Home,Backpack,4,1299,5196,Delhi,North,Credit Card,2025,9,September
+ORD1098,2025-11-21,CUST340,Rahul,Books,AI Basics,2,649,1298,Bangalore,South,Net Banking,2025,11,November
+ORD1099,2025-04-18,CUST139,Priya,Home,Water Bottle,5,499,2495,Bangalore,South,Debit Card,2025,4,April
+ORD1100,2025-05-19,CUST368,Karthik,Electronics,Bluetooth Speaker,5,2199,10995,Coimbatore,South,Cash,2025,5,May
+ORD1101,2025-12-16,CUST307,Keerthi,Clothing,T-Shirt,5,699,3495,Pune,West,Credit Card,2025,12,December
+ORD1102,2025-09-28,CUST367,Arun,Home,Office Chair,1,5499,5499,Bangalore,South,Net Banking,2025,9,September
+ORD1103,2025-12-13,CUST254,Meena,Home,Table Lamp,4,799,3196,Chennai,South,Cash,2025,12,December
+ORD1104,2025-10-16,CUST142,Karthik,Books,Web Development,5,699,3495,Delhi,North,Cash,2025,10,October
+ORD1105,2025-07-31,CUST111,Sneha,Home,Water Bottle,1,499,499,Coimbatore,South,Credit Card,2025,7,July
+ORD1106,2025-09-29,CUST394,Anjali,Home,Backpack,4,1299,5196,Chennai,South,Net Banking,2025,9,September
+ORD1107,2025-03-07,CUST198,Priya,Home,Office Chair,2,5499,10998,Mumbai,West,Cash,2025,3,March
+ORD1108,2025-09-05,CUST375,Ravi,Books,AI Basics,1,649,649,Hyderabad,South,Cash,2025,9,September
+ORD1109,2025-06-05,CUST330,Sanjay,Home,Office Chair,3,5499,16497,Mumbai,West,UPI,2025,6,June
+ORD1110,2025-02-16,CUST320,Keerthi,Clothing,Jacket,1,2999,2999,Hyderabad,South,Cash,2025,2,February
+ORD1111,2025-07-20,CUST165,Sanjay,Books,Data Analytics,1,799,799,Mumbai,West,UPI,2025,7,July
+ORD1112,2025-05-28,CUST332,Karthik,Clothing,Hoodie,4,1899,7596,Bangalore,South,Net Banking,2025,5,May
+ORD1113,2025-05-04,CUST152,Anjali,Books,Data Analytics,2,799,1598,Chennai,South,Net Banking,2025,5,May
+ORD1114,2025-01-01,CUST363,Meena,Home,Desk,3,2999,8997,Hyderabad,South,Net Banking,2025,1,January
+ORD1115,2025-09-04,CUST367,Ravi,Clothing,T-Shirt,5,699,3495,Coimbatore,South,Debit Card,2025,9,September
+ORD1116,2025-12-09,CUST254,Keerthi,Books,Data Analytics,5,799,3995,Chennai,South,Net Banking,2025,12,December
+ORD1117,2025-05-08,CUST240,Rahul,Electronics,Keyboard,1,899,899,Coimbatore,South,Cash,2025,5,May
+ORD1118,2025-07-10,CUST151,Divya,Home,Water Bottle,4,499,1996,Chennai,South,Credit Card,2025,7,July
+ORD1119,2025-03-08,CUST217,Meena,Books,Python Programming,4,599,2396,Chennai,South,UPI,2025,3,March
+ORD1120,2025-01-04,CUST146,Rahul,Electronics,Smart Watch,5,3299,16495,Mumbai,West,Debit Card,2025,1,January
+ORD1121,2025-10-30,CUST188,Divya,Books,Data Analytics,3,799,2397,Hyderabad,South,Net Banking,2025,10,October
+ORD1122,2025-10-21,CUST308,Anjali,Electronics,Smart Watch,2,3299,6598,Hyderabad,South,Net Banking,2025,10,October
+ORD1123,2025-05-23,CUST369,Divya,Home,Backpack,3,1299,3897,Pune,West,Credit Card,2025,5,May
+ORD1124,2025-07-10,CUST189,Meena,Clothing,Jeans,2,1599,3198,Chennai,South,Credit Card,2025,7,July
+ORD1125,2025-01-21,CUST218,Keerthi,Electronics,Mouse,5,599,2995,Bangalore,South,Debit Card,2025,1,January
+ORD1126,2025-08-15,CUST154,Sneha,Books,SQL Guide,2,499,998,Bangalore,South,UPI,2025,8,August
+ORD1127,2025-11-09,CUST216,Karthik,Home,Desk,4,2999,11996,Coimbatore,South,Net Banking,2025,11,November
+ORD1128,2025-04-27,CUST218,Rahul,Electronics,Smart Watch,1,3299,3299,Coimbatore,South,Debit Card,2025,4,April
+ORD1129,2025-10-29,CUST360,Sneha,Books,AI Basics,1,649,649,Mumbai,West,Cash,2025,10,October
+ORD1130,2025-05-22,CUST175,Rahul,Books,AI Basics,5,649,3245,Chennai,South,Cash,2025,5,May
+ORD1131,2025-02-08,CUST107,Keerthi,Books,SQL Guide,4,499,1996,Coimbatore,South,Debit Card,2025,2,February
+ORD1132,2025-12-21,CUST222,Karthik,Electronics,Keyboard,3,899,2697,Coimbatore,South,Net Banking,2025,12,December
+ORD1133,2025-09-09,CUST111,Vijay,Electronics,Bluetooth Speaker,4,2199,8796,Delhi,North,Debit Card,2025,9,September
+ORD1134,2025-11-29,CUST315,Divya,Electronics,Mouse,1,599,599,Chennai,South,Net Banking,2025,11,November
+ORD1135,2025-07-26,CUST379,Anjali,Clothing,Jacket,1,2999,2999,Kochi,South,Credit Card,2025,7,July
+ORD1136,2025-07-29,CUST128,Vijay,Electronics,Wireless Headphones,4,1499,5996,Mumbai,West,Debit Card,2025,7,July
+ORD1137,2025-04-25,CUST335,Vijay,Electronics,Mouse,4,599,2396,Coimbatore,South,Net Banking,2025,4,April
+ORD1138,2025-08-13,CUST126,Sanjay,Electronics,Wireless Headphones,1,1499,1499,Mumbai,West,Debit Card,2025,8,August
+ORD1139,2025-05-14,CUST154,Arun,Clothing,Sneakers,3,2499,7497,Hyderabad,South,Debit Card,2025,5,May
+ORD1140,2025-09-08,CUST129,Meena,Electronics,Bluetooth Speaker,5,2199,10995,Mumbai,West,Net Banking,2025,9,September
+ORD1141,2025-08-07,CUST264,Sneha,Books,SQL Guide,5,499,2495,Kochi,South,Net Banking,2025,8,August
+ORD1142,2025-04-01,CUST370,Sneha,Electronics,Wireless Headphones,4,1499,5996,Bangalore,South,UPI,2025,4,April
+ORD1143,2025-12-20,CUST135,Sneha,Books,SQL Guide,5,499,2495,Kochi,South,Debit Card,2025,12,December
+ORD1144,2025-02-15,CUST386,Keerthi,Books,AI Basics,1,649,649,Bangalore,South,Cash,2025,2,February
+ORD1145,2025-02-07,CUST373,Sneha,Books,Data Analytics,1,799,799,Mumbai,West,Unknown,2025,2,February
+ORD1146,2025-05-22,CUST308,Keerthi,Clothing,T-Shirt,4,699,2796,Bangalore,South,Debit Card,2025,5,May
+ORD1147,2025-04-10,CUST338,Meena,Clothing,Jeans,4,1599,6396,Hyderabad,South,Net Banking,2025,4,April
+ORD1148,2025-11-24,CUST193,Vijay,Clothing,T-Shirt,4,699,2796,Chennai,South,Debit Card,2025,11,November
+ORD1149,2025-07-09,CUST273,Meena,Electronics,Wireless Headphones,3,1499,4497,Bangalore,South,Debit Card,2025,7,July
+ORD1150,2025-02-04,CUST179,Sneha,Books,Data Analytics,5,799,3995,Bangalore,South,Cash,2025,2,February
+ORD1151,2025-05-27,CUST210,Arun,Clothing,Jacket,4,2999,11996,Mumbai,West,Net Banking,2025,5,May
+ORD1152,2025-01-30,CUST317,Priya,Clothing,T-Shirt,2,699,1398,Hyderabad,South,Debit Card,2025,1,January
+ORD1153,2025-11-30,CUST206,Karthik,Electronics,Bluetooth Speaker,2,2199,4398,Pune,West,Credit Card,2025,11,November
+ORD1154,2025-03-25,CUST147,Sneha,Clothing,Sneakers,1,2499,2499,Pune,West,UPI,2025,3,March
+ORD1155,2025-10-08,CUST281,Anjali,Electronics,Wireless Headphones,5,1499,7495,Pune,West,Cash,2025,10,October
+ORD1156,2025-12-10,CUST164,Priya,Home,Table Lamp,4,799,3196,Pune,West,Debit Card,2025,12,December
+ORD1157,2025-09-27,CUST346,Meena,Clothing,Hoodie,2,1899,3798,Chennai,South,Credit Card,2025,9,September
+ORD1158,2025-06-03,CUST344,Anjali,Home,Backpack,5,1299,6495,Kochi,South,Debit Card,2025,6,June
+ORD1159,2025-04-12,CUST187,Anjali,Electronics,Keyboard,1,899,899,Mumbai,West,Debit Card,2025,4,April
+ORD1160,2025-08-03,CUST317,Rahul,Books,SQL Guide,3,499,1497,Mumbai,West,Net Banking,2025,8,August
+ORD1161,2025-05-30,CUST107,Anjali,Clothing,Sneakers,5,2499,12495,Delhi,North,Net Banking,2025,5,May
+ORD1162,2025-03-24,CUST378,Sneha,Electronics,Bluetooth Speaker,5,2199,10995,Hyderabad,South,Net Banking,2025,3,March
+ORD1163,2025-04-20,CUST310,Rahul,Books,AI Basics,3,649,1947,Pune,West,Credit Card,2025,4,April
+ORD1164,2025-10-02,CUST269,Sanjay,Books,SQL Guide,5,499,2495,Chennai,South,Debit Card,2025,10,October
+ORD1165,2025-07-20,CUST238,Vijay,Home,Desk,1,2999,2999,Hyderabad,South,UPI,2025,7,July
+ORD1166,2025-10-11,CUST330,Anjali,Electronics,Smart Watch,1,3299,3299,Pune,West,Cash,2025,10,October
+ORD1167,2025-06-22,CUST261,Arun,Books,Data Analytics,3,799,2397,Chennai,South,Net Banking,2025,6,June
+ORD1168,2025-11-23,CUST101,Ravi,Clothing,Hoodie,4,1899,7596,Hyderabad,South,Net Banking,2025,11,November
+ORD1169,2025-07-25,CUST336,Karthik,Clothing,Sneakers,2,2499,4998,Mumbai,West,Debit Card,2025,7,July
+ORD1170,2025-03-04,CUST288,Anjali,Home,Backpack,4,1299,5196,Mumbai,West,Debit Card,2025,3,March
+ORD1171,2025-03-14,CUST104,Keerthi,Books,SQL Guide,5,499,2495,Kochi,South,Credit Card,2025,3,March
+ORD1172,2025-09-08,CUST232,Sanjay,Electronics,Bluetooth Speaker,2,2199,4398,Coimbatore,South,Credit Card,2025,9,September
+ORD1173,2025-05-04,CUST318,Divya,Clothing,Hoodie,3,1899,5697,Kochi,South,Net Banking,2025,5,May
+ORD1174,2025-05-01,CUST360,Keerthi,Books,Data Analytics,3,799,2397,Bangalore,South,Debit Card,2025,5,May
+ORD1175,2025-10-02,CUST101,Meena,Books,Python Programming,2,599,1198,Kochi,South,UPI,2025,10,October
+ORD1176,2025-04-30,CUST171,Ravi,Home,Backpack,1,1299,1299,Pune,West,Cash,2025,4,April
+ORD1177,2025-11-13,CUST278,Meena,Clothing,Sneakers,2,2499,4998,Delhi,North,Debit Card,2025,11,November
+ORD1178,2025-06-13,CUST289,Sanjay,Clothing,Jeans,5,1599,7995,Hyderabad,South,Debit Card,2025,6,June
+ORD1179,2025-10-13,CUST391,Divya,Electronics,Wireless Headphones,1,1499,1499,Delhi,North,Credit Card,2025,10,October
+ORD1180,2025-09-22,CUST108,Meena,Clothing,T-Shirt,3,699,2097,Coimbatore,South,Cash,2025,9,September
+ORD1181,2025-11-16,CUST353,Meena,Electronics,Bluetooth Speaker,2,2199,4398,Bangalore,South,Net Banking,2025,11,November
+ORD1182,2025-06-10,CUST392,Meena,Clothing,Sneakers,4,2499,9996,Hyderabad,South,Debit Card,2025,6,June
+ORD1183,2025-11-04,CUST344,Sanjay,Home,Table Lamp,4,799,3196,Chennai,South,Net Banking,2025,11,November
+ORD1184,2025-03-30,CUST223,Ravi,Clothing,T-Shirt,5,699,3495,Pune,West,Debit Card,2025,3,March
+ORD1185,2025-05-22,CUST399,Vijay,Electronics,Mouse,4,599,2396,Bangalore,South,Net Banking,2025,5,May
+ORD1186,2025-07-22,CUST383,Karthik,Electronics,Keyboard,2,899,1798,Mumbai,West,Cash,2025,7,July
+ORD1187,2025-11-05,CUST132,Sanjay,Home,Table Lamp,2,799,1598,Coimbatore,South,Credit Card,2025,11,November
+ORD1188,2025-08-15,CUST246,Divya,Clothing,Sneakers,4,2499,9996,Bangalore,South,Cash,2025,8,August
+ORD1189,2025-11-30,CUST256,Anjali,Clothing,Jeans,2,1599,3198,Pune,West,UPI,2025,11,November
+ORD1190,2025-08-10,CUST116,Vijay,Home,Desk,5,2999,14995,Kochi,South,Credit Card,2025,8,August
+ORD1191,2025-02-10,CUST147,Vijay,Clothing,T-Shirt,1,699,699,Bangalore,South,Cash,2025,2,February
+ORD1192,2025-07-15,CUST351,Anjali,Clothing,Jacket,5,2999,14995,Kochi,South,UPI,2025,7,July
+ORD1193,2025-03-09,CUST287,Arun,Electronics,Bluetooth Speaker,5,2199,10995,Pune,West,Debit Card,2025,3,March
+ORD1194,2025-09-21,CUST131,Rahul,Clothing,Sneakers,2,2499,4998,Mumbai,West,Debit Card,2025,9,September
+ORD1195,2025-01-02,CUST360,Karthik,Clothing,Jeans,1,1599,1599,Hyderabad,South,Net Banking,2025,1,January
+ORD1196,2025-12-27,CUST117,Karthik,Home,Table Lamp,2,799,1598,Chennai,South,Credit Card,2025,12,December
+ORD1197,2025-05-05,CUST139,Arun,Home,Water Bottle,3,499,1497,Mumbai,West,Debit Card,2025,5,May
+ORD1198,2025-04-20,CUST139,Rahul,Books,Data Analytics,2,799,1598,Kochi,South,Credit Card,2025,4,April
+ORD1199,2025-03-27,CUST232,Karthik,Electronics,Bluetooth Speaker,2,2199,4398,Kochi,South,Debit Card,2025,3,March
+ORD1200,2025-04-30,CUST130,Divya,Clothing,T-Shirt,2,699,1398,Chennai,South,Net Banking,2025,4,April
+ORD1201,2025-05-07,CUST258,Priya,Clothing,Jacket,1,2999,2999,Hyderabad,South,Cash,2025,5,May
+ORD1202,2025-09-12,CUST378,Priya,Books,Web Development,2,699,1398,Bangalore,South,Net Banking,2025,9,September
+ORD1203,2025-07-02,CUST303,Karthik,Clothing,Jeans,1,1599,1599,Chennai,South,UPI,2025,7,July
+ORD1204,2025-01-16,CUST166,Sneha,Electronics,Bluetooth Speaker,4,2199,8796,Coimbatore,South,Debit Card,2025,1,January
+ORD1205,2025-03-03,CUST208,Karthik,Books,Data Analytics,3,799,2397,Coimbatore,South,UPI,2025,3,March
+ORD1206,2025-06-07,CUST368,Anjali,Electronics,Smart Watch,1,3299,3299,Pune,West,UPI,2025,6,June
+ORD1207,2025-09-25,CUST322,Anjali,Books,AI Basics,4,649,2596,Mumbai,West,Credit Card,2025,9,September
+ORD1208,2025-02-04,CUST392,Keerthi,Books,AI Basics,1,649,649,Kochi,South,Debit Card,2025,2,February
+ORD1209,2025-09-24,CUST118,Rahul,Home,Table Lamp,1,799,799,Hyderabad,South,UPI,2025,9,September
+ORD1210,2025-03-05,CUST190,Meena,Electronics,Wireless Headphones,3,1499,4497,Pune,West,Cash,2025,3,March
+ORD1211,2025-02-19,CUST281,Vijay,Clothing,Jacket,5,2999,14995,Mumbai,West,UPI,2025,2,February
+ORD1212,2025-09-12,CUST355,Divya,Clothing,Jacket,5,2999,14995,Mumbai,West,Cash,2025,9,September
+ORD1213,2025-05-29,CUST353,Arun,Electronics,Keyboard,1,899,899,Pune,West,Credit Card,2025,5,May
+ORD1214,2025-11-21,CUST357,Ravi,Clothing,Hoodie,2,1899,3798,Delhi,North,UPI,2025,11,November
+ORD1215,2025-10-31,CUST187,Karthik,Clothing,T-Shirt,4,699,2796,Mumbai,West,Net Banking,2025,10,October
+ORD1216,2025-10-03,CUST190,Meena,Electronics,Smart Watch,2,3299,6598,Delhi,North,Credit Card,2025,10,October
+ORD1217,2025-12-23,CUST337,Meena,Books,Data Analytics,2,799,1598,Coimbatore,South,Cash,2025,12,December
+ORD1218,2025-06-21,CUST170,Divya,Electronics,Mouse,1,599,599,Coimbatore,South,Credit Card,2025,6,June
+ORD1219,2025-07-20,CUST144,Arun,Books,Web Development,1,699,699,Mumbai,West,UPI,2025,7,July
+ORD1220,2025-11-20,CUST300,Anjali,Clothing,Jeans,1,1599,1599,Coimbatore,South,Debit Card,2025,11,November
+ORD1221,2025-02-04,CUST252,Sanjay,Clothing,Sneakers,1,2499,2499,Hyderabad,South,Debit Card,2025,2,February
+ORD1222,2025-08-04,CUST186,Divya,Clothing,Sneakers,5,2499,12495,Delhi,North,Cash,2025,8,August
+ORD1223,2025-03-06,CUST119,Meena,Home,Desk,1,2999,2999,Delhi,North,Cash,2025,3,March
+ORD1224,2025-01-08,CUST201,Priya,Books,Web Development,5,699,3495,Mumbai,West,Debit Card,2025,1,January
+ORD1225,2025-10-28,CUST195,Karthik,Home,Table Lamp,5,799,3995,Coimbatore,South,Cash,2025,10,October
+ORD1226,2025-12-09,CUST354,Rahul,Home,Desk,1,2999,2999,Chennai,South,Credit Card,2025,12,December
+ORD1227,2025-11-28,CUST130,Priya,Electronics,Wireless Headphones,3,1499,4497,Kochi,South,Net Banking,2025,11,November
+ORD1228,2025-03-17,CUST349,Meena,Home,Office Chair,4,5499,21996,Pune,West,Net Banking,2025,3,March
+ORD1229,2025-06-23,CUST133,Vijay,Electronics,Smart Watch,2,3299,6598,Pune,West,Credit Card,2025,6,June
+ORD1230,2025-02-16,CUST329,Ravi,Electronics,Bluetooth Speaker,5,2199,10995,Delhi,North,Net Banking,2025,2,February
+ORD1231,2025-01-15,CUST112,Sneha,Home,Desk,4,2999,11996,Mumbai,West,UPI,2025,1,January
+ORD1232,2025-12-27,CUST218,Arun,Books,AI Basics,3,649,1947,Mumbai,West,Credit Card,2025,12,December
+ORD1233,2025-05-27,CUST255,Keerthi,Books,Web Development,2,699,1398,Hyderabad,South,Cash,2025,5,May
+ORD1234,2025-01-26,CUST346,Anjali,Books,AI Basics,2,649,1298,Bangalore,South,Credit Card,2025,1,January
+ORD1235,2025-11-04,CUST347,Karthik,Books,SQL Guide,5,499,2495,Kochi,South,Debit Card,2025,11,November
+ORD1236,2025-04-03,CUST129,Rahul,Books,Web Development,1,699,699,Bangalore,South,Cash,2025,4,April
+ORD1237,2025-08-20,CUST261,Sanjay,Home,Desk,3,2999,8997,Delhi,North,Debit Card,2025,8,August
+ORD1238,2025-01-21,CUST335,Anjali,Home,Water Bottle,5,499,2495,Pune,West,Cash,2025,1,January
+ORD1239,2025-11-03,CUST290,Karthik,Clothing,T-Shirt,3,699,2097,Hyderabad,South,Net Banking,2025,11,November
+ORD1240,2025-02-07,CUST217,Sanjay,Books,Web Development,1,699,699,Hyderabad,South,Credit Card,2025,2,February
+ORD1241,2025-10-03,CUST371,Rahul,Home,Table Lamp,1,799,799,Hyderabad,South,UPI,2025,10,October
+ORD1242,2025-06-06,CUST358,Meena,Clothing,Sneakers,5,2499,12495,Delhi,North,Cash,2025,6,June
+ORD1243,2025-06-28,CUST280,Sneha,Books,Python Programming,1,599,599,Bangalore,South,Cash,2025,6,June
+ORD1244,2025-05-12,CUST272,Priya,Electronics,Bluetooth Speaker,4,2199,8796,Pune,West,Debit Card,2025,5,May
+ORD1245,2025-11-07,CUST374,Priya,Clothing,Jacket,2,2999,5998,Hyderabad,South,Net Banking,2025,11,November
+ORD1246,2025-12-14,CUST359,Meena,Home,Desk,5,2999,14995,Pune,West,Debit Card,2025,12,December
+ORD1247,2025-01-28,CUST235,Anjali,Electronics,Keyboard,3,899,2697,Coimbatore,South,Debit Card,2025,1,January
+ORD1248,2025-09-17,CUST271,Ravi,Electronics,Mouse,4,599,2396,Mumbai,West,Net Banking,2025,9,September
+ORD1249,2025-03-17,CUST310,Meena,Electronics,Smart Watch,5,3299,16495,Mumbai,West,UPI,2025,3,March
+ORD1250,2025-03-08,CUST336,Meena,Clothing,Hoodie,1,1899,1899,Pune,West,Debit Card,2025,3,March
+ORD1251,2025-12-08,CUST286,Keerthi,Home,Table Lamp,1,799,799,Chennai,South,Debit Card,2025,12,December
+ORD1252,2025-07-13,CUST195,Karthik,Electronics,Bluetooth Speaker,1,2199,2199,Chennai,South,Cash,2025,7,July
+ORD1253,2025-06-11,CUST111,Ravi,Books,SQL Guide,1,499,499,Delhi,North,Net Banking,2025,6,June
+ORD1254,2025-12-13,CUST168,Keerthi,Electronics,Mouse,3,599,1797,Delhi,North,Credit Card,2025,12,December
+ORD1255,2025-12-27,CUST310,Keerthi,Electronics,Bluetooth Speaker,4,2199,8796,Mumbai,West,UPI,2025,12,December
+ORD1256,2025-09-14,CUST296,Karthik,Clothing,Sneakers,2,2499,4998,Coimbatore,South,UPI,2025,9,September
+ORD1257,2025-03-13,CUST198,Rahul,Clothing,Jeans,3,1599,4797,Kochi,South,Net Banking,2025,3,March
+ORD1258,2025-03-28,CUST193,Sneha,Home,Backpack,3,1299,3897,Bangalore,South,Cash,2025,3,March
+ORD1259,2025-09-19,CUST122,Keerthi,Books,SQL Guide,2,499,998,Bangalore,South,Cash,2025,9,September
+ORD1260,2025-08-02,CUST272,Karthik,Clothing,Sneakers,2,2499,4998,Delhi,North,Net Banking,2025,8,August
+ORD1261,2025-06-02,CUST234,Rahul,Electronics,Wireless Headphones,1,1499,1499,Coimbatore,South,Cash,2025,6,June
+ORD1262,2025-07-29,CUST125,Vijay,Home,Backpack,3,1299,3897,Delhi,North,UPI,2025,7,July
+ORD1263,2025-03-02,CUST285,Meena,Electronics,Wireless Headphones,5,1499,7495,Kochi,South,UPI,2025,3,March
+ORD1264,2025-09-25,CUST185,Meena,Electronics,Wireless Headphones,2,1499,2998,Bangalore,South,Credit Card,2025,9,September
+ORD1265,2025-09-19,CUST155,Anjali,Clothing,T-Shirt,2,699,1398,Pune,West,Net Banking,2025,9,September
+ORD1266,2025-08-06,CUST351,Keerthi,Home,Desk,4,2999,11996,Delhi,North,Debit Card,2025,8,August
+ORD1267,2025-10-10,CUST244,Vijay,Books,Data Analytics,5,799,3995,Hyderabad,South,Debit Card,2025,10,October
+ORD1268,2025-05-16,CUST267,Anjali,Books,Python Programming,5,599,2995,Pune,West,Credit Card,2025,5,May
+ORD1269,2025-12-28,CUST324,Keerthi,Clothing,Jacket,2,2999,5998,Kochi,South,Credit Card,2025,12,December
+ORD1270,2025-04-03,CUST320,Sanjay,Clothing,Sneakers,1,2499,2499,Kochi,South,Cash,2025,4,April
+ORD1271,2025-04-19,CUST279,Rahul,Home,Water Bottle,4,499,1996,Delhi,North,Credit Card,2025,4,April
+ORD1272,2025-08-29,CUST219,Rahul,Books,SQL Guide,5,499,2495,Mumbai,West,Credit Card,2025,8,August
+ORD1273,2025-12-21,CUST365,Ravi,Books,AI Basics,2,649,1298,Delhi,North,Debit Card,2025,12,December
+ORD1274,2025-05-22,CUST250,Meena,Books,Data Analytics,5,799,3995,Mumbai,West,Cash,2025,5,May
+ORD1275,2025-10-18,CUST315,Divya,Electronics,Wireless Headphones,4,1499,5996,Kochi,South,Credit Card,2025,10,October
+ORD1276,2025-08-25,CUST297,Sanjay,Books,SQL Guide,4,499,1996,Coimbatore,South,Credit Card,2025,8,August
+ORD1277,2025-12-06,CUST142,Rahul,Electronics,Keyboard,3,899,2697,Kochi,South,Cash,2025,12,December
+ORD1278,2025-11-08,CUST153,Karthik,Home,Desk,2,2999,5998,Bangalore,South,Net Banking,2025,11,November
+ORD1279,2025-06-26,CUST351,Meena,Electronics,Smart Watch,4,3299,13196,Pune,West,Cash,2025,6,June
+ORD1280,2025-05-21,CUST395,Anjali,Home,Table Lamp,3,799,2397,Pune,West,Debit Card,2025,5,May
+ORD1281,2025-07-08,CUST371,Vijay,Books,Web Development,3,699,2097,Chennai,South,Net Banking,2025,7,July
+ORD1282,2025-02-18,CUST223,Anjali,Books,AI Basics,5,649,3245,Chennai,South,UPI,2025,2,February
+ORD1283,2025-10-29,CUST366,Keerthi,Home,Desk,5,2999,14995,Kochi,South,Cash,2025,10,October
+ORD1284,2025-07-09,CUST129,Priya,Clothing,T-Shirt,3,699,2097,Bangalore,South,Debit Card,2025,7,July
+ORD1285,2025-05-16,CUST135,Divya,Home,Backpack,5,1299,6495,Chennai,South,Net Banking,2025,5,May
+ORD1286,2025-02-12,CUST106,Rahul,Clothing,Sneakers,4,2499,9996,Pune,West,Cash,2025,2,February
+ORD1287,2025-12-19,CUST211,Sneha,Electronics,Smart Watch,1,3299,3299,Delhi,North,Credit Card,2025,12,December
+ORD1288,2025-03-31,CUST394,Arun,Electronics,Mouse,4,599,2396,Coimbatore,South,Cash,2025,3,March
+ORD1289,2025-10-22,CUST177,Divya,Electronics,Mouse,3,599,1797,Coimbatore,South,UPI,2025,10,October
+ORD1290,2025-12-07,CUST247,Ravi,Books,AI Basics,3,649,1947,Bangalore,South,Cash,2025,12,December
+ORD1291,2025-09-02,CUST167,Keerthi,Electronics,Smart Watch,4,3299,13196,Kochi,South,Net Banking,2025,9,September
+ORD1292,2025-07-11,CUST108,Meena,Clothing,Hoodie,5,1899,9495,Chennai,South,Net Banking,2025,7,July
+ORD1293,2025-11-14,CUST222,Rahul,Electronics,Bluetooth Speaker,5,2199,10995,Delhi,North,Cash,2025,11,November
+ORD1294,2025-04-16,CUST275,Vijay,Home,Water Bottle,3,499,1497,Coimbatore,South,Net Banking,2025,4,April
+ORD1295,2025-12-29,CUST279,Rahul,Home,Table Lamp,2,799,1598,Coimbatore,South,Credit Card,2025,12,December
+ORD1296,2025-11-06,CUST185,Arun,Books,AI Basics,5,649,3245,Hyderabad,South,Cash,2025,11,November
+ORD1297,2025-08-21,CUST145,Ravi,Home,Office Chair,4,5499,21996,Kochi,South,Credit Card,2025,8,August
+ORD1298,2025-09-22,CUST236,Vijay,Clothing,T-Shirt,5,699,3495,Hyderabad,South,Credit Card,2025,9,September
+ORD1299,2025-12-10,CUST116,Anjali,Electronics,Bluetooth Speaker,4,2199,8796,Pune,West,Debit Card,2025,12,December
+ORD1300,2025-02-06,CUST295,Vijay,Books,Data Analytics,3,799,2397,Coimbatore,South,Cash,2025,2,February
+ORD1301,2025-11-01,CUST109,Ravi,Electronics,Mouse,5,599,2995,Bangalore,South,Net Banking,2025,11,November
+ORD1302,2025-02-10,CUST115,Divya,Electronics,Wireless Headphones,4,1499,5996,Mumbai,West,Credit Card,2025,2,February
+ORD1303,2025-01-17,CUST202,Anjali,Clothing,T-Shirt,3,699,2097,Mumbai,West,Debit Card,2025,1,January
+ORD1304,2025-12-10,CUST326,Rahul,Home,Table Lamp,2,799,1598,Delhi,North,Cash,2025,12,December
+ORD1305,2025-10-04,CUST378,Meena,Home,Table Lamp,4,799,3196,Coimbatore,South,Cash,2025,10,October
+ORD1306,2025-11-03,CUST213,Sanjay,Electronics,Wireless Headphones,2,1499,2998,Coimbatore,South,UPI,2025,11,November
+ORD1307,2025-02-28,CUST101,Keerthi,Books,SQL Guide,2,499,998,Pune,West,UPI,2025,2,February
+ORD1308,2025-07-02,CUST366,Keerthi,Home,Backpack,1,1299,1299,Coimbatore,South,Credit Card,2025,7,July
+ORD1309,2025-02-10,CUST308,Meena,Books,Data Analytics,5,799,3995,Bangalore,South,UPI,2025,2,February
+ORD1310,2025-02-08,CUST210,Rahul,Home,Desk,4,2999,11996,Hyderabad,South,Credit Card,2025,2,February
+ORD1311,2025-07-11,CUST300,Arun,Books,Data Analytics,2,799,1598,Coimbatore,South,Net Banking,2025,7,July
+ORD1312,2025-09-24,CUST112,Keerthi,Clothing,Hoodie,1,1899,1899,Coimbatore,South,Credit Card,2025,9,September
+ORD1313,2025-05-27,CUST288,Sanjay,Books,SQL Guide,3,499,1497,Pune,West,UPI,2025,5,May
+ORD1314,2025-11-29,CUST254,Keerthi,Clothing,Sneakers,4,2499,9996,Kochi,South,Net Banking,2025,11,November
+ORD1315,2025-05-07,CUST379,Rahul,Clothing,Jacket,2,2999,5998,Chennai,South,UPI,2025,5,May
+ORD1316,2025-02-15,CUST271,Sneha,Books,Python Programming,5,599,2995,Kochi,South,Credit Card,2025,2,February
+ORD1317,2025-02-14,CUST234,Divya,Clothing,Sneakers,1,2499,2499,Pune,West,Debit Card,2025,2,February
+ORD1318,2025-01-01,CUST125,Sneha,Electronics,Smart Watch,2,3299,6598,Kochi,South,Cash,2025,1,January
+ORD1319,2025-06-17,CUST118,Keerthi,Clothing,Sneakers,5,2499,12495,Pune,West,UPI,2025,6,June
+ORD1320,2025-04-18,CUST290,Anjali,Home,Backpack,2,1299,2598,Bangalore,South,Credit Card,2025,4,April
+ORD1321,2025-01-19,CUST241,Priya,Books,Python Programming,4,599,2396,Delhi,North,Net Banking,2025,1,January
+ORD1322,2025-11-28,CUST143,Rahul,Electronics,Wireless Headphones,4,1499,5996,Coimbatore,South,UPI,2025,11,November
+ORD1323,2025-03-13,CUST384,Karthik,Books,AI Basics,4,649,2596,Pune,West,UPI,2025,3,March
+ORD1324,2025-04-19,CUST246,Karthik,Home,Backpack,1,1299,1299,Pune,West,Cash,2025,4,April
+ORD1325,2025-09-25,CUST192,Vijay,Home,Desk,4,2999,11996,Chennai,South,Credit Card,2025,9,September
+ORD1326,2025-08-28,CUST279,Meena,Home,Table Lamp,5,799,3995,Pune,West,Debit Card,2025,8,August
+ORD1327,2025-10-28,CUST156,Meena,Clothing,Sneakers,2,2499,4998,Mumbai,West,Net Banking,2025,10,October
+ORD1328,2025-03-31,CUST255,Ravi,Clothing,Jeans,3,1599,4797,Delhi,North,Credit Card,2025,3,March
+ORD1329,2025-04-13,CUST260,Meena,Books,SQL Guide,5,499,2495,Coimbatore,South,Net Banking,2025,4,April
+ORD1330,2025-09-07,CUST211,Sneha,Books,AI Basics,5,649,3245,Coimbatore,South,UPI,2025,9,September
+ORD1331,2025-01-08,CUST237,Divya,Electronics,Smart Watch,4,3299,13196,Chennai,South,Cash,2025,1,January
+ORD1332,2025-06-02,CUST332,Rahul,Electronics,Bluetooth Speaker,1,2199,2199,Bangalore,South,Cash,2025,6,June
+ORD1333,2025-12-13,CUST320,Arun,Books,Python Programming,2,599,1198,Coimbatore,South,Debit Card,2025,12,December
+ORD1334,2025-06-23,CUST168,Vijay,Clothing,Jacket,1,2999,2999,Mumbai,West,Cash,2025,6,June
+ORD1335,2025-12-09,CUST349,Anjali,Home,Water Bottle,2,499,998,Coimbatore,South,UPI,2025,12,December
+ORD1336,2025-06-07,CUST106,Sanjay,Books,AI Basics,2,649,1298,Mumbai,West,Debit Card,2025,6,June
+ORD1337,2025-08-03,CUST380,Anjali,Electronics,Keyboard,1,899,899,Delhi,North,Credit Card,2025,8,August
+ORD1338,2025-06-26,CUST194,Rahul,Clothing,Jacket,5,2999,14995,Delhi,North,Cash,2025,6,June
+ORD1339,2025-06-24,CUST369,Priya,Books,AI Basics,2,649,1298,Hyderabad,South,Debit Card,2025,6,June
+ORD1340,2025-12-06,CUST297,Meena,Books,AI Basics,1,649,649,Hyderabad,South,UPI,2025,12,December
+ORD1341,2025-12-04,CUST125,Ravi,Clothing,Sneakers,2,2499,4998,Mumbai,West,Net Banking,2025,12,December
+ORD1342,2025-05-26,CUST248,Sanjay,Books,Web Development,3,699,2097,Bangalore,South,Net Banking,2025,5,May
+ORD1343,2025-11-20,CUST218,Sneha,Clothing,Jacket,5,2999,14995,Coimbatore,South,UPI,2025,11,November
+ORD1344,2025-06-10,CUST166,Rahul,Home,Office Chair,4,5499,21996,Pune,West,UPI,2025,6,June
+ORD1345,2025-05-07,CUST275,Priya,Clothing,Hoodie,2,1899,3798,Coimbatore,South,Net Banking,2025,5,May
+ORD1346,2025-03-23,CUST176,Sneha,Clothing,Hoodie,3,1899,5697,Hyderabad,South,Debit Card,2025,3,March
+ORD1347,2025-05-27,CUST214,Priya,Clothing,Hoodie,4,1899,7596,Kochi,South,Net Banking,2025,5,May
+ORD1348,2025-08-27,CUST211,Meena,Books,Web Development,4,699,2796,Pune,West,UPI,2025,8,August
+ORD1349,2025-03-25,CUST349,Keerthi,Books,Web Development,2,699,1398,Mumbai,West,Cash,2025,3,March
+ORD1350,2025-04-23,CUST303,Sneha,Clothing,Jeans,1,1599,1599,Pune,West,Credit Card,2025,4,April
+ORD1351,2025-08-13,CUST247,Divya,Books,Data Analytics,2,799,1598,Kochi,South,Cash,2025,8,August
+ORD1352,2025-11-28,CUST135,Karthik,Electronics,Smart Watch,3,3299,9897,Coimbatore,South,Cash,2025,11,November
+ORD1353,2025-08-31,CUST126,Anjali,Electronics,Mouse,4,599,2396,Coimbatore,South,UPI,2025,8,August
+ORD1354,2025-05-23,CUST338,Divya,Books,Web Development,2,699,1398,Bangalore,South,Net Banking,2025,5,May
+ORD1355,2025-02-10,CUST114,Sanjay,Books,Data Analytics,1,799,799,Chennai,South,Debit Card,2025,2,February
+ORD1356,2025-09-15,CUST145,Vijay,Clothing,Jeans,2,1599,3198,Pune,West,Cash,2025,9,September
+ORD1357,2025-10-12,CUST316,Keerthi,Home,Office Chair,5,5499,27495,Hyderabad,South,Net Banking,2025,10,October
+ORD1358,2025-04-15,CUST333,Karthik,Books,Data Analytics,1,799,799,Kochi,South,Debit Card,2025,4,April
+ORD1359,2025-07-21,CUST293,Divya,Electronics,Keyboard,3,899,2697,Kochi,South,Cash,2025,7,July
+ORD1360,2025-11-03,CUST151,Rahul,Clothing,Jeans,4,1599,6396,Kochi,South,Debit Card,2025,11,November
+ORD1361,2025-11-27,CUST314,Priya,Books,AI Basics,2,649,1298,Hyderabad,South,Net Banking,2025,11,November
+ORD1362,2025-09-23,CUST251,Sanjay,Electronics,Bluetooth Speaker,1,2199,2199,Chennai,South,Credit Card,2025,9,September
+ORD1363,2025-07-29,CUST375,Rahul,Electronics,Wireless Headphones,5,1499,7495,Coimbatore,South,Net Banking,2025,7,July
+ORD1364,2025-02-20,CUST176,Unknown,Home,Table Lamp,1,799,799,Bangalore,South,UPI,2025,2,February
+ORD1365,2025-04-28,CUST320,Ravi,Clothing,Sneakers,5,2499,12495,Bangalore,South,Debit Card,2025,4,April
+ORD1366,2025-07-20,CUST287,Priya,Clothing,Hoodie,3,1899,5697,Hyderabad,South,Credit Card,2025,7,July
+ORD1367,2025-02-08,CUST389,Sanjay,Home,Water Bottle,4,499,1996,Bangalore,South,Debit Card,2025,2,February
+ORD1368,2025-01-28,CUST128,Vijay,Home,Water Bottle,3,499,1497,Kochi,South,Debit Card,2025,1,January
+ORD1369,2025-09-16,CUST280,Karthik,Clothing,Sneakers,2,2499,4998,Delhi,North,Cash,2025,9,September
+ORD1370,2025-03-25,CUST353,Sanjay,Clothing,Sneakers,1,2499,2499,Chennai,South,UPI,2025,3,March
+ORD1371,2025-06-04,CUST226,Divya,Books,AI Basics,5,649,3245,Coimbatore,South,Debit Card,2025,6,June
+ORD1372,2025-04-27,CUST277,Sanjay,Books,AI Basics,5,649,3245,Delhi,North,Net Banking,2025,4,April
+ORD1373,2025-01-02,CUST137,Karthik,Home,Office Chair,1,5499,5499,Chennai,South,Net Banking,2025,1,January
+ORD1374,2025-04-03,CUST199,Keerthi,Books,Python Programming,1,599,599,Mumbai,West,Cash,2025,4,April
+ORD1375,2025-06-15,CUST198,Meena,Electronics,Keyboard,2,899,1798,Pune,West,UPI,2025,6,June
+ORD1376,2025-12-16,CUST227,Keerthi,Books,SQL Guide,3,499,1497,Hyderabad,South,UPI,2025,12,December
+ORD1377,2025-10-23,CUST268,Divya,Books,Python Programming,5,599,2995,Kochi,South,Net Banking,2025,10,October
+ORD1378,2025-09-15,CUST180,Rahul,Electronics,Smart Watch,2,3299,6598,Bangalore,South,Credit Card,2025,9,September
+ORD1379,2025-03-22,CUST394,Karthik,Home,Backpack,3,1299,3897,Mumbai,West,Cash,2025,3,March
+ORD1380,2025-09-25,CUST226,Meena,Electronics,Wireless Headphones,2,1499,2998,Bangalore,South,Cash,2025,9,September
+ORD1381,2025-08-23,CUST250,Arun,Books,Data Analytics,5,799,3995,Delhi,North,Net Banking,2025,8,August
+ORD1382,2025-11-17,CUST116,Vijay,Home,Table Lamp,1,799,799,Coimbatore,South,Net Banking,2025,11,November
+ORD1383,2025-11-07,CUST128,Meena,Books,AI Basics,1,649,649,Coimbatore,South,Credit Card,2025,11,November
+ORD1384,2025-10-28,CUST273,Arun,Electronics,Mouse,3,599,1797,Coimbatore,South,Credit Card,2025,10,October
+ORD1385,2025-12-23,CUST146,Ravi,Electronics,Bluetooth Speaker,4,2199,8796,Kochi,South,UPI,2025,12,December
+ORD1386,2025-08-01,CUST336,Ravi,Books,Web Development,3,699,2097,Bangalore,South,Cash,2025,8,August
+ORD1387,2025-03-03,CUST314,Anjali,Clothing,T-Shirt,4,699,2796,Mumbai,West,Cash,2025,3,March
+ORD1388,2025-02-18,CUST185,Priya,Clothing,T-Shirt,2,699,1398,Coimbatore,South,Net Banking,2025,2,February
+ORD1389,2025-05-07,CUST382,Meena,Electronics,Smart Watch,2,3299,6598,Mumbai,West,UPI,2025,5,May
+ORD1390,2025-08-11,CUST332,Sneha,Electronics,Mouse,5,599,2995,Bangalore,South,Cash,2025,8,August
+ORD1391,2025-10-06,CUST185,Vijay,Clothing,T-Shirt,4,699,2796,Kochi,South,UPI,2025,10,October
+ORD1392,2025-10-21,CUST165,Meena,Clothing,Jacket,5,2999,14995,Delhi,North,UPI,2025,10,October
+ORD1393,2025-10-11,CUST234,Arun,Books,Python Programming,1,599,599,Kochi,South,Net Banking,2025,10,October
+ORD1394,2025-10-04,CUST251,Sneha,Books,SQL Guide,4,499,1996,Mumbai,West,UPI,2025,10,October
+ORD1395,2025-04-17,CUST215,Vijay,Clothing,Sneakers,3,2499,7497,Kochi,South,Credit Card,2025,4,April
+ORD1396,2025-05-26,CUST164,Sneha,Books,Python Programming,1,599,599,Kochi,South,Credit Card,2025,5,May
+ORD1397,2025-04-09,CUST258,Divya,Books,AI Basics,1,649,649,Delhi,North,Debit Card,2025,4,April
+ORD1398,2025-03-14,CUST177,Arun,Home,Office Chair,3,5499,16497,Bangalore,South,Net Banking,2025,3,March
+ORD1399,2025-05-02,CUST246,Ravi,Books,Python Programming,1,599,599,Bangalore,South,Debit Card,2025,5,May
+ORD1400,2025-01-30,CUST325,Sanjay,Electronics,Smart Watch,4,3299,13196,Hyderabad,South,Credit Card,2025,1,January
+ORD1401,2025-07-07,CUST203,Divya,Books,Web Development,5,699,3495,Kochi,South,Debit Card,2025,7,July
+ORD1402,2025-12-30,CUST188,Vijay,Books,Python Programming,1,599,599,Bangalore,South,Net Banking,2025,12,December
+ORD1403,2025-12-20,CUST268,Vijay,Clothing,Jeans,4,1599,6396,Bangalore,South,Net Banking,2025,12,December
+ORD1404,2025-10-15,CUST270,Karthik,Electronics,Smart Watch,2,3299,6598,Chennai,South,UPI,2025,10,October
+ORD1405,2025-07-14,CUST235,Arun,Books,SQL Guide,4,499,1996,Coimbatore,South,Cash,2025,7,July
+ORD1406,2025-06-05,CUST150,Anjali,Books,SQL Guide,5,499,2495,Hyderabad,South,UPI,2025,6,June
+ORD1407,2025-06-21,CUST234,Anjali,Home,Desk,4,2999,11996,Pune,West,Net Banking,2025,6,June
+ORD1408,2025-12-01,CUST237,Vijay,Books,SQL Guide,3,499,1497,Hyderabad,South,Credit Card,2025,12,December
+ORD1409,2025-02-10,CUST345,Anjali,Books,Data Analytics,5,799,3995,Hyderabad,South,Credit Card,2025,2,February
+ORD1410,2025-03-04,CUST209,Priya,Home,Table Lamp,2,799,1598,Pune,West,UPI,2025,3,March
+ORD1411,2025-01-23,CUST387,Ravi,Clothing,Hoodie,3,1899,5697,Chennai,South,Net Banking,2025,1,January
+ORD1412,2025-12-26,CUST121,Karthik,Books,Data Analytics,4,799,3196,Kochi,South,Credit Card,2025,12,December
+ORD1413,2025-03-16,CUST190,Vijay,Home,Water Bottle,5,499,2495,Delhi,North,Net Banking,2025,3,March
+ORD1414,2025-02-17,CUST396,Anjali,Electronics,Smart Watch,2,3299,6598,Bangalore,South,Credit Card,2025,2,February
+ORD1415,2025-06-09,CUST212,Arun,Clothing,Hoodie,3,1899,5697,Coimbatore,South,Net Banking,2025,6,June
+ORD1416,2025-11-09,CUST177,Keerthi,Electronics,Wireless Headphones,2,1499,2998,Mumbai,West,Debit Card,2025,11,November
+ORD1417,2025-04-28,CUST277,Meena,Electronics,Keyboard,4,899,3596,Kochi,South,Net Banking,2025,4,April
+ORD1418,2025-04-10,CUST248,Sanjay,Home,Backpack,2,1299,2598,Pune,West,Net Banking,2025,4,April
+ORD1419,2025-06-16,CUST201,Ravi,Books,Python Programming,1,599,599,Delhi,North,UPI,2025,6,June
+ORD1420,2025-10-17,CUST346,Divya,Home,Table Lamp,3,799,2397,Kochi,South,Debit Card,2025,10,October
+ORD1421,2025-06-05,CUST217,Keerthi,Home,Backpack,2,1299,2598,Pune,West,Cash,2025,6,June
+ORD1422,2025-01-07,CUST192,Divya,Home,Desk,4,2999,11996,Bangalore,South,UPI,2025,1,January
+ORD1423,2025-07-15,CUST128,Priya,Home,Office Chair,4,5499,21996,Chennai,South,Cash,2025,7,July
+ORD1424,2025-02-25,CUST125,Sneha,Clothing,Sneakers,2,2499,4998,Kochi,South,Credit Card,2025,2,February
+ORD1425,2025-11-17,CUST158,Arun,Books,SQL Guide,4,499,1996,Pune,West,Cash,2025,11,November
+ORD1426,2025-07-12,CUST397,Sneha,Electronics,Mouse,5,599,2995,Bangalore,South,Net Banking,2025,7,July
+ORD1427,2025-02-16,CUST234,Karthik,Electronics,Wireless Headphones,5,1499,7495,Bangalore,South,Cash,2025,2,February
+ORD1428,2025-05-28,CUST349,Sanjay,Books,Python Programming,5,599,2995,Chennai,South,UPI,2025,5,May
+ORD1429,2025-10-02,CUST138,Karthik,Electronics,Keyboard,1,899,899,Hyderabad,South,UPI,2025,10,October
+ORD1430,2025-06-06,CUST175,Vijay,Books,Python Programming,2,599,1198,Kochi,South,Cash,2025,6,June
+ORD1431,2025-07-21,CUST242,Keerthi,Electronics,Wireless Headphones,1,1499,1499,Kochi,South,UPI,2025,7,July
+ORD1432,2025-05-06,CUST268,Arun,Home,Water Bottle,4,499,1996,Hyderabad,South,UPI,2025,5,May
+ORD1433,2025-11-01,CUST359,Keerthi,Electronics,Keyboard,1,899,899,Coimbatore,South,Cash,2025,11,November
+ORD1434,2025-10-21,CUST325,Vijay,Books,AI Basics,4,649,2596,Coimbatore,South,Debit Card,2025,10,October
+ORD1435,2025-03-05,CUST252,Rahul,Books,Python Programming,4,599,2396,Hyderabad,South,Debit Card,2025,3,March
+ORD1436,2025-11-21,CUST119,Anjali,Books,Python Programming,3,599,1797,Delhi,North,Credit Card,2025,11,November
+ORD1437,2025-06-25,CUST246,Divya,Books,AI Basics,5,649,3245,Mumbai,West,UPI,2025,6,June
+ORD1438,2025-04-26,CUST341,Keerthi,Books,Data Analytics,4,799,3196,Bangalore,South,Cash,2025,4,April
+ORD1439,2025-07-23,CUST337,Meena,Clothing,Hoodie,3,1899,5697,Mumbai,West,UPI,2025,7,July
+ORD1440,2025-11-17,CUST135,Vijay,Clothing,Hoodie,5,1899,9495,Bangalore,South,Net Banking,2025,11,November
+ORD1441,2025-01-31,CUST290,Sneha,Electronics,Mouse,4,599,2396,Hyderabad,South,UPI,2025,1,January
+ORD1442,2025-04-23,CUST101,Rahul,Books,Python Programming,4,599,2396,Coimbatore,South,UPI,2025,4,April
+ORD1443,2025-12-31,CUST253,Divya,Electronics,Mouse,1,599,599,Delhi,North,Debit Card,2025,12,December
+ORD1444,2025-11-21,CUST226,Vijay,Books,AI Basics,1,649,649,Coimbatore,South,Cash,2025,11,November
+ORD1445,2025-12-10,CUST326,Keerthi,Books,Data Analytics,5,799,3995,Mumbai,West,UPI,2025,12,December
+ORD1446,2025-03-08,CUST321,Rahul,Clothing,Jeans,4,1599,6396,Coimbatore,South,Debit Card,2025,3,March
+ORD1447,2025-03-16,CUST311,Rahul,Clothing,T-Shirt,2,699,1398,Hyderabad,South,Credit Card,2025,3,March
+ORD1448,2025-02-14,CUST125,Arun,Home,Desk,1,2999,2999,Delhi,North,Debit Card,2025,2,February
+ORD1449,2025-09-17,CUST116,Karthik,Clothing,Jeans,5,1599,7995,Mumbai,West,Debit Card,2025,9,September
+ORD1450,2025-06-03,CUST282,Rahul,Home,Office Chair,4,5499,21996,Delhi,North,Debit Card,2025,6,June
+ORD1451,2025-06-04,CUST229,Priya,Home,Water Bottle,4,499,1996,Unknown,South,UPI,2025,6,June
+ORD1452,2025-12-29,CUST142,Karthik,Home,Table Lamp,2,799,1598,Bangalore,South,UPI,2025,12,December
+ORD1453,2025-08-22,CUST336,Divya,Home,Office Chair,5,5499,27495,Coimbatore,South,Credit Card,2025,8,August
+ORD1454,2025-02-20,CUST134,Divya,Home,Desk,4,2999,11996,Delhi,North,Net Banking,2025,2,February
+ORD1455,2025-11-02,CUST145,Divya,Electronics,Keyboard,1,899,899,Chennai,South,Net Banking,2025,11,November
+ORD1456,2025-09-19,CUST234,Divya,Clothing,T-Shirt,2,699,1398,Kochi,South,Net Banking,2025,9,September
+ORD1457,2025-11-11,CUST121,Priya,Home,Backpack,5,1299,6495,Coimbatore,South,Credit Card,2025,11,November
+ORD1458,2025-05-05,CUST222,Keerthi,Books,Data Analytics,2,799,1598,Bangalore,South,Net Banking,2025,5,May
+ORD1459,2025-09-02,CUST170,Vijay,Clothing,Jeans,1,1599,1599,Delhi,North,Net Banking,2025,9,September
+ORD1460,2025-01-30,CUST148,Sanjay,Clothing,Jeans,5,1599,7995,Mumbai,West,Debit Card,2025,1,January
+ORD1461,2025-05-02,CUST139,Keerthi,Home,Desk,2,2999,5998,Bangalore,South,UPI,2025,5,May
+ORD1462,2025-05-05,CUST387,Rahul,Electronics,Bluetooth Speaker,3,2199,6597,Chennai,South,UPI,2025,5,May
+ORD1463,2025-02-06,CUST110,Divya,Home,Water Bottle,1,499,499,Delhi,North,Debit Card,2025,2,February
+ORD1464,2025-06-19,CUST130,Ravi,Electronics,Wireless Headphones,1,1499,1499,Pune,West,Debit Card,2025,6,June
+ORD1465,2025-05-04,CUST344,Karthik,Books,Web Development,1,699,699,Pune,West,Debit Card,2025,5,May
+ORD1466,2025-12-23,CUST374,Karthik,Clothing,Jeans,3,1599,4797,Hyderabad,South,UPI,2025,12,December
+ORD1467,2025-02-04,CUST188,Rahul,Books,AI Basics,3,649,1947,Coimbatore,South,Net Banking,2025,2,February
+ORD1468,2025-03-28,CUST344,Vijay,Electronics,Wireless Headphones,4,1499,5996,Mumbai,West,Debit Card,2025,3,March
+ORD1469,2025-05-14,CUST115,Meena,Electronics,Wireless Headphones,2,1499,2998,Hyderabad,South,Credit Card,2025,5,May
+ORD1470,2025-07-15,CUST104,Meena,Books,Data Analytics,4,799,3196,Delhi,North,Debit Card,2025,7,July
+ORD1471,2025-10-01,CUST291,Sanjay,Electronics,Smart Watch,2,3299,6598,Pune,West,Cash,2025,10,October
+ORD1472,2025-07-20,CUST268,Vijay,Books,AI Basics,3,649,1947,Pune,West,Debit Card,2025,7,July
+ORD1473,2025-10-12,CUST109,Rahul,Clothing,T-Shirt,3,699,2097,Pune,West,UPI,2025,10,October
+ORD1474,2025-03-18,CUST209,Meena,Books,AI Basics,4,649,2596,Delhi,North,Debit Card,2025,3,March
+ORD1475,2025-02-28,CUST237,Meena,Clothing,Hoodie,5,1899,9495,Pune,West,Cash,2025,2,February
+ORD1476,2025-05-06,CUST254,Meena,Books,Data Analytics,4,799,3196,Bangalore,South,Credit Card,2025,5,May
+ORD1477,2025-04-19,CUST309,Sneha,Electronics,Wireless Headphones,2,1499,2998,Kochi,South,Net Banking,2025,4,April
+ORD1478,2025-08-12,CUST372,Ravi,Books,Web Development,4,699,2796,Delhi,North,Debit Card,2025,8,August
+ORD1479,2025-10-05,CUST243,Keerthi,Electronics,Bluetooth Speaker,1,2199,2199,Mumbai,West,Cash,2025,10,October
+ORD1480,2025-03-09,CUST199,Priya,Books,Data Analytics,2,799,1598,Kochi,South,Cash,2025,3,March
+ORD1481,2025-03-10,CUST169,Rahul,Books,Data Analytics,2,799,1598,Hyderabad,South,Credit Card,2025,3,March
+ORD1482,2025-06-14,CUST347,Anjali,Home,Water Bottle,5,499,2495,Mumbai,West,UPI,2025,6,June
+ORD1483,2025-11-01,CUST361,Arun,Electronics,Keyboard,3,899,2697,Kochi,South,Debit Card,2025,11,November
+ORD1484,2025-06-11,CUST376,Keerthi,Home,Backpack,2,1299,2598,Chennai,South,Cash,2025,6,June
+ORD1485,2025-12-31,CUST179,Arun,Electronics,Mouse,3,599,1797,Pune,West,Credit Card,2025,12,December
+ORD1486,2025-12-08,CUST246,Vijay,Home,Office Chair,4,5499,21996,Chennai,South,Net Banking,2025,12,December
+ORD1487,2025-11-05,CUST211,Rahul,Clothing,Jeans,1,1599,1599,Coimbatore,South,Cash,2025,11,November
+ORD1488,2025-12-09,CUST358,Rahul,Books,Python Programming,5,599,2995,Coimbatore,South,Credit Card,2025,12,December
+ORD1489,2025-02-11,CUST193,Arun,Electronics,Mouse,3,599,1797,Kochi,South,UPI,2025,2,February
+ORD1490,2025-12-20,CUST113,Sanjay,Electronics,Smart Watch,2,3299,6598,Chennai,South,UPI,2025,12,December
+ORD1491,2025-04-19,CUST360,Arun,Books,AI Basics,3,649,1947,Delhi,North,Cash,2025,4,April
+ORD1492,2025-02-20,CUST209,Rahul,Electronics,Smart Watch,2,3299,6598,Mumbai,West,Cash,2025,2,February
+ORD1493,2025-09-07,CUST289,Meena,Electronics,Keyboard,3,899,2697,Chennai,South,Debit Card,2025,9,September
+ORD1494,2025-12-07,CUST195,Sanjay,Home,Backpack,2,1299,2598,Coimbatore,South,Credit Card,2025,12,December
+ORD1495,2025-01-21,CUST205,Divya,Electronics,Keyboard,4,899,3596,Chennai,South,Cash,2025,1,January
+ORD1496,2025-10-27,CUST108,Anjali,Clothing,Jeans,2,1599,3198,Delhi,North,Debit Card,2025,10,October
+ORD1497,2025-05-19,CUST167,Sneha,Clothing,Jeans,2,1599,3198,Chennai,South,Debit Card,2025,5,May
+ORD1498,2025-12-25,CUST291,Ravi,Books,Python Programming,1,599,599,Mumbai,West,Cash,2025,12,December
+ORD1499,2025-11-20,CUST356,Priya,Electronics,Mouse,2,599,1198,Hyderabad,South,UPI,2025,11,November
+ORD1500,2025-04-02,CUST109,Divya,Books,Web Development,1,699,699,Delhi,North,Credit Card,2025,4,April
+ORD1501,2025-10-07,CUST217,Karthik,Clothing,Hoodie,5,1899,9495,Coimbatore,South,Credit Card,2025,10,October
+ORD1502,2025-05-05,CUST367,Arun,Electronics,Bluetooth Speaker,1,2199,2199,Mumbai,West,UPI,2025,5,May
+ORD1503,2025-04-21,CUST199,Anjali,Electronics,Bluetooth Speaker,4,2199,8796,Chennai,South,Cash,2025,4,April
+ORD1504,2025-12-20,CUST398,Arun,Books,Data Analytics,1,799,799,Chennai,South,Credit Card,2025,12,December
+ORD1505,2025-05-19,CUST264,Ravi,Clothing,Sneakers,5,2499,12495,Hyderabad,South,Cash,2025,5,May
+ORD1506,2025-09-30,CUST241,Arun,Electronics,Keyboard,4,899,3596,Coimbatore,South,Cash,2025,9,September
+ORD1507,2025-04-09,CUST368,Divya,Books,AI Basics,3,649,1947,Coimbatore,South,Debit Card,2025,4,April
+ORD1508,2025-09-09,CUST137,Meena,Clothing,Jacket,3,2999,8997,Bangalore,South,UPI,2025,9,September
+ORD1509,2025-12-04,CUST174,Keerthi,Books,Python Programming,1,599,599,Coimbatore,South,Cash,2025,12,December
+ORD1510,2025-04-14,CUST173,Meena,Home,Office Chair,1,5499,5499,Hyderabad,South,Net Banking,2025,4,April
+ORD1511,2025-08-02,CUST299,Sneha,Electronics,Mouse,5,599,2995,Pune,West,UPI,2025,8,August
+ORD1512,2025-09-06,CUST230,Sanjay,Home,Water Bottle,5,499,2495,Bangalore,South,Credit Card,2025,9,September
+ORD1513,2025-06-01,CUST346,Arun,Clothing,Hoodie,2,1899,3798,Bangalore,South,Debit Card,2025,6,June
+ORD1514,2025-09-07,CUST160,Vijay,Home,Water Bottle,5,499,2495,Chennai,South,Credit Card,2025,9,September
+ORD1515,2025-10-02,CUST379,Meena,Home,Office Chair,2,5499,10998,Chennai,South,Credit Card,2025,10,October
+ORD1516,2025-06-14,CUST203,Ravi,Clothing,Sneakers,4,2499,9996,Coimbatore,South,UPI,2025,6,June
+ORD1517,2025-12-07,CUST396,Rahul,Books,Python Programming,1,599,599,Bangalore,South,Credit Card,2025,12,December
+ORD1518,2025-01-08,CUST251,Keerthi,Home,Office Chair,4,5499,21996,Kochi,South,Cash,2025,1,January
+ORD1519,2025-10-11,CUST257,Anjali,Books,Data Analytics,5,799,3995,Chennai,South,Credit Card,2025,10,October
+ORD1520,2025-01-05,CUST306,Vijay,Home,Table Lamp,4,799,3196,Hyderabad,South,Debit Card,2025,1,January
+ORD1521,2025-05-25,CUST279,Divya,Books,SQL Guide,4,499,1996,Kochi,South,Debit Card,2025,5,May
+ORD1522,2025-04-11,CUST297,Divya,Clothing,Hoodie,4,1899,7596,Chennai,South,Net Banking,2025,4,April
+ORD1523,2025-06-13,CUST323,Sneha,Home,Table Lamp,5,799,3995,Delhi,North,Debit Card,2025,6,June
+ORD1524,2025-05-27,CUST189,Sneha,Clothing,T-Shirt,4,699,2796,Delhi,North,Credit Card,2025,5,May
+ORD1525,2025-03-05,CUST387,Sanjay,Home,Office Chair,2,5499,10998,Chennai,South,Debit Card,2025,3,March
+ORD1526,2025-04-01,CUST376,Keerthi,Clothing,Jacket,5,2999,14995,Bangalore,South,UPI,2025,4,April
+ORD1527,2025-04-27,CUST336,Rahul,Clothing,T-Shirt,4,699,2796,Pune,West,Debit Card,2025,4,April
+ORD1528,2025-12-20,CUST283,Anjali,Home,Table Lamp,5,799,3995,Pune,West,Cash,2025,12,December
+ORD1529,2025-09-24,CUST309,Rahul,Home,Desk,3,2999,8997,Bangalore,South,UPI,2025,9,September
+ORD1530,2025-11-06,CUST230,Karthik,Home,Water Bottle,2,499,998,Mumbai,West,Net Banking,2025,11,November
+ORD1531,2025-06-22,CUST253,Sneha,Electronics,Bluetooth Speaker,4,2199,8796,Pune,West,Cash,2025,6,June
+ORD1532,2025-02-16,CUST113,Sanjay,Books,SQL Guide,3,499,1497,Delhi,North,Credit Card,2025,2,February
+ORD1533,2025-05-20,CUST222,Priya,Electronics,Mouse,3,599,1797,Hyderabad,South,Credit Card,2025,5,May
+ORD1534,2025-09-03,CUST320,Arun,Electronics,Mouse,5,599,2995,Bangalore,South,Credit Card,2025,9,September
+ORD1535,2025-05-29,CUST206,Arun,Clothing,Jeans,3,1599,4797,Coimbatore,South,Cash,2025,5,May
+ORD1536,2025-09-03,CUST170,Priya,Home,Backpack,2,1299,2598,Delhi,North,Cash,2025,9,September
+ORD1537,2025-01-05,CUST295,Meena,Books,Data Analytics,2,799,1598,Hyderabad,South,Cash,2025,1,January
+ORD1538,2025-07-03,CUST286,Rahul,Clothing,Jeans,1,1599,1599,Hyderabad,South,UPI,2025,7,July
+ORD1539,2025-01-20,CUST199,Priya,Electronics,Mouse,2,599,1198,Bangalore,South,UPI,2025,1,January
+ORD1540,2025-02-15,CUST182,Sanjay,Home,Office Chair,3,5499,16497,Hyderabad,South,Credit Card,2025,2,February
+ORD1541,2025-01-12,CUST175,Anjali,Clothing,Sneakers,2,2499,4998,Bangalore,South,Debit Card,2025,1,January
+ORD1542,2025-03-11,CUST292,Priya,Home,Table Lamp,5,799,3995,Pune,West,Credit Card,2025,3,March
+ORD1543,2025-01-17,CUST314,Sanjay,Clothing,Jeans,1,1599,1599,Chennai,South,Net Banking,2025,1,January
+ORD1544,2025-05-27,CUST244,Sneha,Home,Table Lamp,3,799,2397,Delhi,North,UPI,2025,5,May
+ORD1545,2025-06-03,CUST316,Vijay,Electronics,Mouse,1,599,599,Mumbai,West,Cash,2025,6,June
+ORD1546,2025-10-31,CUST115,Divya,Books,Python Programming,3,599,1797,Chennai,South,UPI,2025,10,October
+ORD1547,2025-04-18,CUST317,Divya,Electronics,Bluetooth Speaker,5,2199,10995,Delhi,North,Cash,2025,4,April
+ORD1548,2025-08-24,CUST135,Keerthi,Books,Web Development,1,699,699,Bangalore,South,Net Banking,2025,8,August
+ORD1549,2025-11-04,CUST283,Karthik,Home,Backpack,4,1299,5196,Delhi,North,Net Banking,2025,11,November
+ORD1550,2025-12-18,CUST370,Rahul,Clothing,Jeans,3,1599,4797,Pune,West,UPI,2025,12,December
+ORD1551,2025-03-11,CUST200,Anjali,Electronics,Mouse,4,599,2396,Bangalore,South,Cash,2025,3,March
+ORD1552,2025-07-02,CUST107,Vijay,Books,Data Analytics,1,799,799,Chennai,South,Net Banking,2025,7,July
+ORD1553,2025-09-07,CUST130,Vijay,Electronics,Wireless Headphones,4,1499,5996,Coimbatore,South,Credit Card,2025,9,September
+ORD1554,2025-08-16,CUST244,Sneha,Books,Data Analytics,4,799,3196,Coimbatore,South,Credit Card,2025,8,August
+ORD1555,2025-04-12,CUST211,Priya,Electronics,Bluetooth Speaker,1,2199,2199,Kochi,South,Cash,2025,4,April
+ORD1556,2025-03-16,CUST332,Rahul,Books,Web Development,5,699,3495,Kochi,South,UPI,2025,3,March
+ORD1557,2025-08-04,CUST279,Arun,Books,AI Basics,4,649,2596,Delhi,North,Net Banking,2025,8,August
+ORD1558,2025-07-22,CUST172,Vijay,Home,Table Lamp,4,799,3196,Coimbatore,South,UPI,2025,7,July
+ORD1559,2025-07-11,CUST310,Sanjay,Books,AI Basics,5,649,3245,Bangalore,South,Credit Card,2025,7,July
+ORD1560,2025-09-06,CUST320,Arun,Home,Office Chair,4,5499,21996,Hyderabad,South,Net Banking,2025,9,September
+ORD1561,2025-08-30,CUST180,Karthik,Books,AI Basics,4,649,2596,Bangalore,South,UPI,2025,8,August
+ORD1562,2025-06-28,CUST183,Priya,Clothing,T-Shirt,4,699,2796,Hyderabad,South,Debit Card,2025,6,June
+ORD1563,2025-08-07,CUST142,Priya,Clothing,Jeans,2,1599,3198,Chennai,South,Cash,2025,8,August
+ORD1564,2025-03-23,CUST373,Anjali,Clothing,Jacket,5,2999,14995,Mumbai,West,Cash,2025,3,March
+ORD1565,2025-04-02,CUST291,Vijay,Books,Web Development,4,699,2796,Hyderabad,South,Debit Card,2025,4,April
+ORD1566,2025-06-24,CUST273,Sneha,Home,Office Chair,5,5499,27495,Coimbatore,South,Credit Card,2025,6,June
+ORD1567,2025-08-27,CUST107,Meena,Home,Office Chair,3,5499,16497,Bangalore,South,Net Banking,2025,8,August
+ORD1568,2025-09-17,CUST255,Meena,Books,Web Development,3,699,2097,Chennai,South,Cash,2025,9,September
+ORD1569,2025-12-31,CUST110,Ravi,Clothing,Hoodie,4,1899,7596,Coimbatore,South,Debit Card,2025,12,December
+ORD1570,2025-06-12,CUST134,Divya,Clothing,T-Shirt,5,699,3495,Chennai,South,Debit Card,2025,6,June
+ORD1571,2025-02-17,CUST136,Sanjay,Home,Desk,5,2999,14995,Mumbai,West,Credit Card,2025,2,February
+ORD1572,2025-11-25,CUST106,Arun,Clothing,Jacket,5,2999,14995,Pune,West,Credit Card,2025,11,November
+ORD1573,2025-11-24,CUST315,Ravi,Electronics,Keyboard,2,899,1798,Bangalore,South,UPI,2025,11,November
+ORD1574,2025-04-26,CUST234,Karthik,Home,Desk,3,2999,8997,Delhi,North,Cash,2025,4,April
+ORD1575,2025-12-03,CUST385,Divya,Clothing,Jeans,5,1599,7995,Bangalore,South,UPI,2025,12,December
+ORD1576,2025-12-03,CUST226,Priya,Home,Backpack,5,1299,6495,Kochi,South,Debit Card,2025,12,December
+ORD1577,2025-08-13,CUST274,Arun,Electronics,Mouse,2,599,1198,Mumbai,West,Net Banking,2025,8,August
+ORD1578,2025-12-18,CUST252,Rahul,Home,Desk,2,2999,5998,Bangalore,South,Net Banking,2025,12,December
+ORD1579,2025-11-24,CUST126,Vijay,Home,Desk,5,2999,14995,Kochi,South,Credit Card,2025,11,November
+ORD1580,2025-05-27,CUST215,Karthik,Home,Water Bottle,1,499,499,Delhi,North,Net Banking,2025,5,May
+ORD1581,2025-03-04,CUST384,Rahul,Home,Table Lamp,5,799,3995,Hyderabad,South,Net Banking,2025,3,March
+ORD1582,2025-10-21,CUST175,Sneha,Electronics,Smart Watch,5,3299,16495,Chennai,South,Net Banking,2025,10,October
+ORD1583,2025-11-19,CUST266,Ravi,Books,Data Analytics,2,799,1598,Delhi,North,Debit Card,2025,11,November
+ORD1584,2025-11-21,CUST289,Vijay,Home,Office Chair,2,5499,10998,Coimbatore,South,Net Banking,2025,11,November
+ORD1585,2025-01-13,CUST178,Arun,Home,Backpack,5,1299,6495,Mumbai,West,Net Banking,2025,1,January
+ORD1586,2025-07-08,CUST190,Vijay,Clothing,T-Shirt,5,699,3495,Hyderabad,South,Net Banking,2025,7,July
+ORD1587,2025-10-14,CUST276,Unknown,Home,Office Chair,5,5499,27495,Coimbatore,South,UPI,2025,10,October
+ORD1588,2025-07-27,CUST121,Anjali,Clothing,Sneakers,2,2499,4998,Coimbatore,South,Debit Card,2025,7,July
+ORD1589,2025-04-24,CUST154,Divya,Books,Web Development,5,699,3495,Mumbai,West,Credit Card,2025,4,April
+ORD1590,2025-01-22,CUST284,Sneha,Electronics,Smart Watch,5,3299,16495,Unknown,South,UPI,2025,1,January
+ORD1591,2025-12-15,CUST322,Sanjay,Electronics,Smart Watch,4,3299,13196,Pune,West,Cash,2025,12,December
+ORD1592,2025-08-02,CUST279,Rahul,Books,Web Development,1,699,699,Coimbatore,South,Debit Card,2025,8,August
+ORD1593,2025-06-20,CUST376,Keerthi,Electronics,Smart Watch,3,3299,9897,Coimbatore,South,Debit Card,2025,6,June
+ORD1594,2025-11-19,CUST212,Divya,Books,Python Programming,1,599,599,Hyderabad,South,Cash,2025,11,November
+ORD1595,2025-02-23,CUST324,Anjali,Books,Data Analytics,4,799,3196,Bangalore,South,Cash,2025,2,February
+ORD1596,2025-10-25,CUST314,Sanjay,Books,AI Basics,3,649,1947,Coimbatore,South,Cash,2025,10,October
+ORD1597,2025-11-16,CUST159,Divya,Electronics,Smart Watch,5,3299,16495,Chennai,South,Credit Card,2025,11,November
+ORD1598,2025-05-06,CUST209,Priya,Clothing,Jeans,4,1599,6396,Hyderabad,South,Net Banking,2025,5,May
+ORD1599,2025-10-04,CUST257,Anjali,Books,Python Programming,5,599,2995,Coimbatore,South,Debit Card,2025,10,October
+ORD1600,2025-07-23,CUST291,Rahul,Home,Office Chair,2,5499,10998,Mumbai,West,Net Banking,2025,7,July
+ORD1601,2025-07-13,CUST300,Karthik,Electronics,Bluetooth Speaker,4,2199,8796,Delhi,North,Net Banking,2025,7,July
+ORD1602,2025-06-18,CUST296,Meena,Books,AI Basics,2,649,1298,Chennai,South,Cash,2025,6,June
+ORD1603,2025-06-01,CUST135,Sanjay,Books,Python Programming,4,599,2396,Kochi,South,Credit Card,2025,6,June
+ORD1604,2025-02-04,CUST346,Priya,Home,Table Lamp,4,799,3196,Kochi,South,UPI,2025,2,February
+ORD1605,2025-07-03,CUST337,Keerthi,Clothing,T-Shirt,2,699,1398,Delhi,North,Credit Card,2025,7,July
+ORD1606,2025-10-13,CUST204,Karthik,Clothing,T-Shirt,3,699,2097,Kochi,South,Net Banking,2025,10,October
+ORD1607,2025-02-26,CUST107,Arun,Clothing,T-Shirt,1,699,699,Delhi,North,Credit Card,2025,2,February
+ORD1608,2025-08-10,CUST383,Anjali,Books,AI Basics,5,649,3245,Coimbatore,South,Cash,2025,8,August
+ORD1609,2025-10-30,CUST101,Ravi,Books,Data Analytics,4,799,3196,Chennai,South,UPI,2025,10,October
+ORD1610,2025-06-12,CUST319,Priya,Books,SQL Guide,5,499,2495,Chennai,South,Cash,2025,6,June
+ORD1611,2025-01-19,CUST330,Vijay,Electronics,Wireless Headphones,2,1499,2998,Bangalore,South,UPI,2025,1,January
+ORD1612,2025-09-21,CUST272,Arun,Home,Desk,5,2999,14995,Delhi,North,Net Banking,2025,9,September
+ORD1613,2025-10-09,CUST187,Arun,Books,Data Analytics,2,799,1598,Chennai,South,UPI,2025,10,October
+ORD1614,2025-04-23,CUST141,Keerthi,Home,Office Chair,5,5499,27495,Bangalore,South,UPI,2025,4,April
+ORD1615,2025-11-23,CUST223,Sanjay,Home,Backpack,1,1299,1299,Hyderabad,South,UPI,2025,11,November
+ORD1616,2025-01-30,CUST398,Keerthi,Clothing,Sneakers,1,2499,2499,Bangalore,South,Credit Card,2025,1,January
+ORD1617,2025-05-15,CUST278,Anjali,Electronics,Keyboard,1,899,899,Unknown,West,Credit Card,2025,5,May
+ORD1618,2025-03-08,CUST163,Keerthi,Books,Data Analytics,1,799,799,Pune,West,Net Banking,2025,3,March
+ORD1619,2025-03-06,CUST265,Priya,Clothing,Jeans,1,1599,1599,Coimbatore,South,UPI,2025,3,March
+ORD1620,2025-10-19,CUST287,Sneha,Clothing,Sneakers,1,2499,2499,Hyderabad,South,Debit Card,2025,10,October
+ORD1621,2025-01-25,CUST309,Ravi,Books,Data Analytics,2,799,1598,Pune,West,Net Banking,2025,1,January
+ORD1622,2025-02-06,CUST327,Priya,Home,Backpack,4,1299,5196,Pune,West,UPI,2025,2,February
+ORD1623,2025-01-01,CUST148,Keerthi,Clothing,Sneakers,5,2499,12495,Hyderabad,South,UPI,2025,1,January
+ORD1624,2025-02-06,CUST324,Divya,Home,Desk,1,2999,2999,Mumbai,West,Credit Card,2025,2,February
+ORD1625,2025-05-21,CUST103,Arun,Electronics,Smart Watch,2,3299,6598,Bangalore,South,Net Banking,2025,5,May
+ORD1626,2025-08-20,CUST275,Rahul,Home,Table Lamp,2,799,1598,Coimbatore,South,UPI,2025,8,August
+ORD1627,2025-05-16,CUST199,Arun,Electronics,Mouse,2,599,1198,Bangalore,South,UPI,2025,5,May
+ORD1628,2025-07-07,CUST216,Arun,Home,Table Lamp,4,799,3196,Chennai,South,Net Banking,2025,7,July
+ORD1629,2025-05-08,CUST370,Meena,Clothing,Jeans,5,1599,7995,Bangalore,South,Debit Card,2025,5,May
+ORD1630,2025-07-20,CUST353,Ravi,Clothing,T-Shirt,4,699,2796,Kochi,South,Net Banking,2025,7,July
+ORD1631,2025-05-07,CUST195,Ravi,Electronics,Wireless Headphones,3,1499,4497,Hyderabad,South,Net Banking,2025,5,May
+ORD1632,2025-09-14,CUST373,Vijay,Books,Web Development,2,699,1398,Coimbatore,South,Debit Card,2025,9,September
+ORD1633,2025-06-13,CUST124,Keerthi,Electronics,Smart Watch,3,3299,9897,Bangalore,South,Net Banking,2025,6,June
+ORD1634,2025-02-04,CUST216,Sneha,Electronics,Mouse,1,599,599,Coimbatore,South,UPI,2025,2,February
+ORD1635,2025-07-13,CUST251,Karthik,Home,Table Lamp,1,799,799,Coimbatore,South,Net Banking,2025,7,July
+ORD1636,2025-07-10,CUST150,Ravi,Home,Backpack,4,1299,5196,Chennai,South,Debit Card,2025,7,July
+ORD1637,2025-04-14,CUST306,Keerthi,Electronics,Wireless Headphones,5,1499,7495,Chennai,South,Cash,2025,4,April
+ORD1638,2025-01-23,CUST179,Karthik,Clothing,Jeans,3,1599,4797,Hyderabad,South,Net Banking,2025,1,January
+ORD1639,2025-09-22,CUST170,Ravi,Home,Table Lamp,5,799,3995,Mumbai,West,Credit Card,2025,9,September
+ORD1640,2025-10-17,CUST127,Vijay,Books,Web Development,4,699,2796,Kochi,South,UPI,2025,10,October
+ORD1641,2025-09-17,CUST371,Arun,Home,Desk,1,2999,2999,Pune,West,UPI,2025,9,September
+ORD1642,2025-12-24,CUST150,Karthik,Home,Office Chair,5,5499,27495,Coimbatore,South,Credit Card,2025,12,December
+ORD1643,2025-03-16,CUST392,Keerthi,Books,Python Programming,5,599,2995,Mumbai,West,Credit Card,2025,3,March
+ORD1644,2025-12-21,CUST347,Anjali,Electronics,Mouse,1,599,599,Pune,West,Net Banking,2025,12,December
+ORD1645,2025-03-13,CUST364,Sneha,Books,SQL Guide,3,499,1497,Pune,West,Credit Card,2025,3,March
+ORD1646,2025-09-16,CUST179,Karthik,Electronics,Bluetooth Speaker,1,2199,2199,Kochi,South,Cash,2025,9,September
+ORD1647,2025-07-07,CUST290,Vijay,Electronics,Wireless Headphones,5,1499,7495,Hyderabad,South,Debit Card,2025,7,July
+ORD1648,2025-06-22,CUST147,Divya,Electronics,Bluetooth Speaker,3,2199,6597,Pune,West,Credit Card,2025,6,June
+ORD1649,2025-10-17,CUST289,Karthik,Books,AI Basics,3,649,1947,Kochi,South,Credit Card,2025,10,October
+ORD1650,2025-02-14,CUST356,Keerthi,Electronics,Bluetooth Speaker,1,2199,2199,Pune,West,Cash,2025,2,February
+ORD1651,2025-03-02,CUST322,Sneha,Clothing,Jacket,5,2999,14995,Coimbatore,South,Unknown,2025,3,March
+ORD1652,2025-03-24,CUST341,Ravi,Books,Python Programming,4,599,2396,Coimbatore,South,UPI,2025,3,March
+ORD1653,2025-05-03,CUST369,Sanjay,Clothing,Hoodie,5,1899,9495,Delhi,North,Net Banking,2025,5,May
+ORD1654,2025-12-24,CUST101,Ravi,Electronics,Bluetooth Speaker,2,2199,4398,Mumbai,West,Cash,2025,12,December
+ORD1655,2025-01-16,CUST134,Sanjay,Home,Desk,4,2999,11996,Bangalore,South,Debit Card,2025,1,January
+ORD1656,2025-03-07,CUST179,Anjali,Electronics,Mouse,3,599,1797,Kochi,South,Debit Card,2025,3,March
+ORD1657,2025-05-25,CUST336,Priya,Clothing,Jeans,4,1599,6396,Chennai,South,Cash,2025,5,May
+ORD1658,2025-06-11,CUST198,Priya,Clothing,Sneakers,3,2499,7497,Kochi,South,Debit Card,2025,6,June
+ORD1659,2025-08-22,CUST182,Karthik,Books,Data Analytics,3,799,2397,Bangalore,South,UPI,2025,8,August
+ORD1660,2025-05-24,CUST292,Rahul,Home,Office Chair,4,5499,21996,Mumbai,West,Debit Card,2025,5,May
+ORD1661,2025-12-24,CUST353,Keerthi,Books,Data Analytics,3,799,2397,Chennai,South,Debit Card,2025,12,December
+ORD1662,2025-07-07,CUST138,Divya,Clothing,Jeans,3,1599,4797,Bangalore,South,Cash,2025,7,July
+ORD1663,2025-11-18,CUST114,Vijay,Electronics,Wireless Headphones,2,1499,2998,Delhi,North,Cash,2025,11,November
+ORD1664,2025-01-13,CUST309,Divya,Home,Desk,5,2999,14995,Chennai,South,Debit Card,2025,1,January
+ORD1665,2025-07-03,CUST189,Sanjay,Electronics,Keyboard,5,899,4495,Coimbatore,South,Credit Card,2025,7,July
+ORD1666,2025-04-21,CUST156,Keerthi,Electronics,Keyboard,2,899,1798,Bangalore,South,Cash,2025,4,April
+ORD1667,2025-10-17,CUST194,Keerthi,Home,Backpack,4,1299,5196,Kochi,South,Net Banking,2025,10,October
+ORD1668,2025-10-22,CUST193,Karthik,Books,SQL Guide,1,499,499,Chennai,South,Net Banking,2025,10,October
+ORD1669,2025-08-03,CUST185,Ravi,Electronics,Smart Watch,1,3299,3299,Delhi,North,UPI,2025,8,August
+ORD1670,2025-04-30,CUST345,Sneha,Clothing,Jacket,1,2999,2999,Kochi,South,Debit Card,2025,4,April
+ORD1671,2025-02-24,CUST122,Vijay,Electronics,Smart Watch,2,3299,6598,Pune,West,Credit Card,2025,2,February
+ORD1672,2025-01-27,CUST391,Divya,Home,Office Chair,2,5499,10998,Chennai,South,UPI,2025,1,January
+ORD1673,2025-04-28,CUST372,Sneha,Home,Water Bottle,3,499,1497,Chennai,South,Debit Card,2025,4,April
+ORD1674,2025-08-09,CUST222,Vijay,Home,Table Lamp,1,799,799,Delhi,North,Cash,2025,8,August
+ORD1675,2025-08-19,CUST228,Divya,Books,Web Development,4,699,2796,Pune,West,Net Banking,2025,8,August
+ORD1676,2025-02-22,CUST213,Anjali,Electronics,Mouse,4,599,2396,Bangalore,South,Credit Card,2025,2,February
+ORD1677,2025-10-22,CUST373,Sanjay,Books,Python Programming,1,599,599,Hyderabad,South,Net Banking,2025,10,October
+ORD1678,2025-11-17,CUST230,Arun,Books,AI Basics,1,649,649,Bangalore,South,Cash,2025,11,November
+ORD1679,2025-08-21,CUST232,Vijay,Home,Office Chair,1,5499,5499,Pune,West,Debit Card,2025,8,August
+ORD1680,2025-06-07,CUST185,Sanjay,Home,Table Lamp,2,799,1598,Mumbai,West,Cash,2025,6,June
+ORD1681,2025-09-26,CUST181,Keerthi,Books,AI Basics,2,649,1298,Kochi,South,Cash,2025,9,September
+ORD1682,2025-01-21,CUST169,Meena,Electronics,Bluetooth Speaker,2,2199,4398,Delhi,North,Net Banking,2025,1,January
+ORD1683,2025-02-22,CUST248,Rahul,Clothing,Sneakers,5,2499,12495,Bangalore,South,Credit Card,2025,2,February
+ORD1684,2025-10-02,CUST116,Keerthi,Books,SQL Guide,4,499,1996,Chennai,South,Cash,2025,10,October
+ORD1685,2025-11-09,CUST205,Karthik,Electronics,Smart Watch,4,3299,13196,Delhi,North,Net Banking,2025,11,November
+ORD1686,2025-10-08,CUST265,Meena,Home,Office Chair,3,5499,16497,Coimbatore,South,Credit Card,2025,10,October
+ORD1687,2025-08-02,CUST301,Sneha,Home,Office Chair,2,5499,10998,Pune,West,Debit Card,2025,8,August
+ORD1688,2025-01-31,CUST297,Keerthi,Electronics,Smart Watch,5,3299,16495,Kochi,South,Debit Card,2025,1,January
+ORD1689,2025-12-03,CUST285,Keerthi,Clothing,Jacket,5,2999,14995,Bangalore,South,UPI,2025,12,December
+ORD1690,2025-07-02,CUST365,Vijay,Home,Backpack,4,1299,5196,Delhi,North,Net Banking,2025,7,July
+ORD1691,2025-01-23,CUST200,Karthik,Home,Office Chair,2,5499,10998,Kochi,South,Credit Card,2025,1,January
+ORD1692,2025-02-01,CUST314,Karthik,Home,Desk,3,2999,8997,Bangalore,South,Cash,2025,2,February
+ORD1693,2025-03-15,CUST378,Meena,Electronics,Smart Watch,2,3299,6598,Delhi,North,Debit Card,2025,3,March
+ORD1694,2025-01-10,CUST262,Keerthi,Books,Web Development,1,699,699,Chennai,South,Credit Card,2025,1,January
+ORD1695,2025-02-23,CUST257,Meena,Home,Backpack,2,1299,2598,Coimbatore,South,Net Banking,2025,2,February
+ORD1696,2025-02-21,CUST351,Arun,Books,Python Programming,1,599,599,Coimbatore,South,UPI,2025,2,February
+ORD1697,2025-05-28,CUST197,Divya,Clothing,Jacket,1,2999,2999,Mumbai,West,Debit Card,2025,5,May
+ORD1698,2025-06-09,CUST118,Vijay,Home,Backpack,3,1299,3897,Delhi,North,Credit Card,2025,6,June
+ORD1699,2025-01-14,CUST197,Sanjay,Home,Water Bottle,4,499,1996,Bangalore,South,Credit Card,2025,1,January
+ORD1700,2025-06-27,CUST101,Priya,Clothing,T-Shirt,2,699,1398,Coimbatore,South,Credit Card,2025,6,June
+ORD1701,2025-02-22,CUST316,Keerthi,Home,Water Bottle,1,499,499,Pune,West,Net Banking,2025,2,February
+ORD1702,2025-12-01,CUST232,Ravi,Books,Python Programming,2,599,1198,Coimbatore,South,Net Banking,2025,12,December
+ORD1703,2025-01-22,CUST360,Vijay,Electronics,Bluetooth Speaker,4,2199,8796,Hyderabad,South,Net Banking,2025,1,January
+ORD1704,2025-01-30,CUST225,Vijay,Books,Python Programming,4,599,2396,Hyderabad,South,Cash,2025,1,January
+ORD1705,2025-07-10,CUST182,Vijay,Electronics,Keyboard,5,899,4495,Coimbatore,South,Credit Card,2025,7,July
+ORD1706,2025-09-17,CUST383,Karthik,Electronics,Mouse,4,599,2396,Delhi,North,Debit Card,2025,9,September
+ORD1707,2025-07-24,CUST271,Sneha,Books,Python Programming,3,599,1797,Mumbai,West,Net Banking,2025,7,July
+ORD1708,2025-02-28,CUST159,Karthik,Books,Python Programming,1,599,599,Coimbatore,South,Net Banking,2025,2,February
+ORD1709,2025-09-21,CUST132,Sneha,Books,Data Analytics,5,799,3995,Chennai,South,Credit Card,2025,9,September
+ORD1710,2025-01-12,CUST261,Meena,Books,AI Basics,3,649,1947,Kochi,South,Net Banking,2025,1,January
+ORD1711,2025-04-29,CUST384,Priya,Clothing,Jeans,2,1599,3198,Bangalore,South,Cash,2025,4,April
+ORD1712,2025-10-17,CUST206,Karthik,Home,Water Bottle,1,499,499,Mumbai,West,Cash,2025,10,October
+ORD1713,2025-12-04,CUST205,Keerthi,Electronics,Bluetooth Speaker,4,2199,8796,Chennai,South,Net Banking,2025,12,December
+ORD1714,2025-09-05,CUST328,Sneha,Books,AI Basics,1,649,649,Mumbai,West,Credit Card,2025,9,September
+ORD1715,2025-12-20,CUST288,Karthik,Books,Python Programming,2,599,1198,Chennai,South,Credit Card,2025,12,December
+ORD1716,2025-05-07,CUST170,Rahul,Books,Python Programming,5,599,2995,Bangalore,South,Credit Card,2025,5,May
+ORD1717,2025-03-16,CUST390,Karthik,Clothing,Jacket,5,2999,14995,Bangalore,South,UPI,2025,3,March
+ORD1718,2025-12-27,CUST187,Priya,Books,Python Programming,5,599,2995,Hyderabad,South,Net Banking,2025,12,December
+ORD1719,2025-07-23,CUST156,Priya,Books,Python Programming,4,599,2396,Delhi,North,Credit Card,2025,7,July
+ORD1720,2025-02-18,CUST213,Sneha,Books,Python Programming,3,599,1797,Chennai,South,Cash,2025,2,February
+ORD1721,2025-03-20,CUST113,Sneha,Home,Water Bottle,3,499,1497,Kochi,South,Debit Card,2025,3,March
+ORD1722,2025-08-29,CUST118,Meena,Clothing,Sneakers,1,2499,2499,Hyderabad,South,Debit Card,2025,8,August
+ORD1723,2025-12-15,CUST282,Priya,Books,Data Analytics,4,799,3196,Chennai,South,Credit Card,2025,12,December
+ORD1724,2025-06-03,CUST213,Priya,Electronics,Bluetooth Speaker,5,2199,10995,Hyderabad,South,Debit Card,2025,6,June
+ORD1725,2025-10-01,CUST329,Keerthi,Electronics,Mouse,5,599,2995,Bangalore,South,Debit Card,2025,10,October
+ORD1726,2025-04-06,CUST271,Arun,Electronics,Mouse,2,599,1198,Mumbai,West,UPI,2025,4,April
+ORD1727,2025-08-02,CUST395,Vijay,Clothing,Jacket,2,2999,5998,Pune,West,Cash,2025,8,August
+ORD1728,2025-10-21,CUST289,Anjali,Clothing,Hoodie,5,1899,9495,Hyderabad,South,Cash,2025,10,October
+ORD1729,2025-07-28,CUST179,Karthik,Electronics,Keyboard,5,899,4495,Chennai,South,UPI,2025,7,July
+ORD1730,2025-12-09,CUST246,Divya,Books,Data Analytics,4,799,3196,Chennai,South,UPI,2025,12,December
+ORD1731,2025-03-29,CUST282,Meena,Clothing,Jacket,3,2999,8997,Pune,West,Debit Card,2025,3,March
+ORD1732,2025-11-02,CUST386,Vijay,Electronics,Bluetooth Speaker,2,2199,4398,Delhi,North,Net Banking,2025,11,November
+ORD1733,2025-09-21,CUST350,Anjali,Electronics,Wireless Headphones,3,1499,4497,Kochi,South,Debit Card,2025,9,September
+ORD1734,2025-11-21,CUST296,Arun,Books,Web Development,4,699,2796,Bangalore,South,UPI,2025,11,November
+ORD1735,2025-11-16,CUST171,Divya,Home,Water Bottle,5,499,2495,Chennai,South,Cash,2025,11,November
+ORD1736,2025-06-06,CUST348,Sneha,Clothing,Hoodie,3,1899,5697,Coimbatore,South,Debit Card,2025,6,June
+ORD1737,2025-06-05,CUST246,Priya,Books,Web Development,5,699,3495,Mumbai,West,Net Banking,2025,6,June
+ORD1738,2025-05-19,CUST206,Rahul,Electronics,Mouse,5,599,2995,Hyderabad,South,Debit Card,2025,5,May
+ORD1739,2025-05-01,CUST363,Meena,Electronics,Mouse,1,599,599,Delhi,North,Credit Card,2025,5,May
+ORD1740,2025-03-06,CUST396,Sanjay,Books,Data Analytics,3,799,2397,Kochi,South,Debit Card,2025,3,March
+ORD1741,2025-04-17,CUST170,Ravi,Clothing,Jacket,3,2999,8997,Pune,West,UPI,2025,4,April
+ORD1742,2025-05-27,CUST293,Priya,Home,Office Chair,5,5499,27495,Mumbai,West,Cash,2025,5,May
+ORD1743,2025-05-17,CUST168,Rahul,Home,Desk,4,2999,11996,Bangalore,South,Cash,2025,5,May
+ORD1744,2025-06-11,CUST152,Anjali,Electronics,Bluetooth Speaker,1,2199,2199,Delhi,North,UPI,2025,6,June
+ORD1745,2025-04-10,CUST385,Sneha,Clothing,T-Shirt,5,699,3495,Kochi,South,Credit Card,2025,4,April
+ORD1746,2025-12-04,CUST109,Divya,Home,Office Chair,2,5499,10998,Hyderabad,South,UPI,2025,12,December
+ORD1747,2025-11-03,CUST351,Anjali,Clothing,T-Shirt,2,699,1398,Hyderabad,South,Debit Card,2025,11,November
+ORD1748,2025-05-21,CUST398,Ravi,Clothing,T-Shirt,1,699,699,Pune,West,UPI,2025,5,May
+ORD1749,2025-03-24,CUST284,Priya,Electronics,Bluetooth Speaker,4,2199,8796,Coimbatore,South,UPI,2025,3,March
+ORD1750,2025-06-26,CUST279,Priya,Home,Desk,5,2999,14995,Pune,West,Credit Card,2025,6,June
+ORD1751,2025-07-17,CUST298,Divya,Books,AI Basics,3,649,1947,Bangalore,South,Debit Card,2025,7,July
+ORD1752,2025-04-22,CUST228,Sanjay,Electronics,Mouse,1,599,599,Delhi,North,Net Banking,2025,4,April
+ORD1753,2025-02-25,CUST120,Rahul,Home,Table Lamp,4,799,3196,Delhi,North,Net Banking,2025,2,February
+ORD1754,2025-06-28,CUST165,Anjali,Home,Table Lamp,3,799,2397,Chennai,South,Cash,2025,6,June
+ORD1755,2025-07-05,CUST282,Sneha,Home,Desk,2,2999,5998,Coimbatore,South,UPI,2025,7,July
+ORD1756,2025-08-06,CUST341,Priya,Home,Water Bottle,2,499,998,Coimbatore,South,Cash,2025,8,August
+ORD1757,2025-11-12,CUST124,Anjali,Home,Office Chair,3,5499,16497,Delhi,North,Credit Card,2025,11,November
+ORD1758,2025-08-05,CUST183,Keerthi,Clothing,T-Shirt,1,699,699,Delhi,North,Net Banking,2025,8,August
+ORD1759,2025-04-30,CUST285,Sanjay,Electronics,Mouse,2,599,1198,Mumbai,West,UPI,2025,4,April
+ORD1760,2025-06-24,CUST199,Anjali,Clothing,Hoodie,5,1899,9495,Kochi,South,Credit Card,2025,6,June
+ORD1761,2025-01-23,CUST162,Divya,Books,SQL Guide,3,499,1497,Mumbai,West,Credit Card,2025,1,January
+ORD1762,2025-08-01,CUST386,Ravi,Home,Desk,3,2999,8997,Mumbai,West,UPI,2025,8,August
+ORD1763,2025-08-23,CUST122,Sneha,Electronics,Bluetooth Speaker,2,2199,4398,Coimbatore,South,Credit Card,2025,8,August
+ORD1764,2025-01-13,CUST312,Arun,Home,Office Chair,1,5499,5499,Chennai,South,UPI,2025,1,January
+ORD1765,2025-04-11,CUST226,Divya,Electronics,Wireless Headphones,5,1499,7495,Hyderabad,South,UPI,2025,4,April
+ORD1766,2025-01-24,CUST142,Anjali,Clothing,Hoodie,1,1899,1899,Mumbai,West,Debit Card,2025,1,January
+ORD1767,2025-12-30,CUST198,Arun,Electronics,Smart Watch,4,3299,13196,Chennai,South,Cash,2025,12,December
+ORD1768,2025-01-11,CUST131,Priya,Books,AI Basics,4,649,2596,Pune,West,Credit Card,2025,1,January
+ORD1769,2025-09-30,CUST258,Arun,Books,AI Basics,2,649,1298,Bangalore,South,Credit Card,2025,9,September
+ORD1770,2025-10-08,CUST212,Sanjay,Electronics,Wireless Headphones,2,1499,2998,Mumbai,West,Debit Card,2025,10,October
+ORD1771,2025-04-04,CUST347,Karthik,Electronics,Wireless Headphones,2,1499,2998,Pune,West,Debit Card,2025,4,April
+ORD1772,2025-07-20,CUST222,Sanjay,Electronics,Keyboard,4,899,3596,Hyderabad,South,Debit Card,2025,7,July
+ORD1773,2025-01-21,CUST373,Divya,Electronics,Mouse,1,599,599,Bangalore,South,Net Banking,2025,1,January
+ORD1774,2025-12-06,CUST394,Karthik,Books,SQL Guide,1,499,499,Bangalore,South,Net Banking,2025,12,December
+ORD1775,2025-07-30,CUST307,Divya,Home,Desk,2,2999,5998,Hyderabad,South,Net Banking,2025,7,July
+ORD1776,2025-05-20,CUST210,Keerthi,Electronics,Wireless Headphones,5,1499,7495,Mumbai,West,UPI,2025,5,May
+ORD1777,2025-10-20,CUST378,Ravi,Electronics,Smart Watch,1,3299,3299,Coimbatore,South,Credit Card,2025,10,October
+ORD1778,2025-10-25,CUST156,Ravi,Books,Data Analytics,4,799,3196,Hyderabad,South,Cash,2025,10,October
+ORD1779,2025-04-11,CUST157,Meena,Books,Web Development,3,699,2097,Hyderabad,South,UPI,2025,4,April
+ORD1780,2025-10-31,CUST391,Sneha,Clothing,Jacket,3,2999,8997,Hyderabad,South,Credit Card,2025,10,October
+ORD1781,2025-12-25,CUST214,Ravi,Electronics,Wireless Headphones,3,1499,4497,Bangalore,South,Credit Card,2025,12,December
+ORD1782,2025-01-28,CUST298,Vijay,Clothing,Hoodie,5,1899,9495,Kochi,South,Debit Card,2025,1,January
+ORD1783,2025-02-10,CUST279,Priya,Books,Python Programming,2,599,1198,Chennai,South,Debit Card,2025,2,February
+ORD1784,2025-12-21,CUST319,Priya,Books,SQL Guide,4,499,1996,Pune,West,UPI,2025,12,December
+ORD1785,2025-10-30,CUST377,Keerthi,Home,Water Bottle,5,499,2495,Coimbatore,South,Debit Card,2025,10,October
+ORD1786,2025-05-26,CUST116,Meena,Electronics,Bluetooth Speaker,4,2199,8796,Mumbai,West,Credit Card,2025,5,May
+ORD1787,2025-09-13,CUST161,Keerthi,Clothing,T-Shirt,4,699,2796,Mumbai,West,Debit Card,2025,9,September
+ORD1788,2025-08-15,CUST154,Anjali,Books,Python Programming,2,599,1198,Pune,West,Net Banking,2025,8,August
+ORD1789,2025-08-24,CUST268,Rahul,Books,AI Basics,3,649,1947,Chennai,South,Debit Card,2025,8,August
+ORD1790,2025-12-27,CUST126,Divya,Clothing,Hoodie,2,1899,3798,Hyderabad,South,Credit Card,2025,12,December
+ORD1791,2025-01-13,CUST165,Vijay,Home,Desk,5,2999,14995,Kochi,South,UPI,2025,1,January
+ORD1792,2025-07-29,CUST200,Vijay,Books,SQL Guide,5,499,2495,Coimbatore,South,Cash,2025,7,July
+ORD1793,2025-08-17,CUST174,Sanjay,Electronics,Keyboard,5,899,4495,Mumbai,West,Debit Card,2025,8,August
+ORD1794,2025-04-10,CUST292,Sanjay,Books,Data Analytics,2,799,1598,Pune,West,Credit Card,2025,4,April
+ORD1795,2025-01-31,CUST271,Rahul,Electronics,Mouse,4,599,2396,Delhi,North,Cash,2025,1,January
+ORD1796,2025-01-16,CUST373,Keerthi,Clothing,Jeans,4,1599,6396,Kochi,South,Cash,2025,1,January
+ORD1797,2025-05-17,CUST287,Anjali,Electronics,Bluetooth Speaker,1,2199,2199,Pune,West,Net Banking,2025,5,May
+ORD1798,2025-11-25,CUST123,Meena,Clothing,Jacket,5,2999,14995,Kochi,South,Cash,2025,11,November
+ORD1799,2025-06-15,CUST281,Arun,Electronics,Keyboard,4,899,3596,Mumbai,West,Credit Card,2025,6,June
+ORD1800,2025-11-06,CUST208,Sanjay,Clothing,Jacket,1,2999,2999,Hyderabad,South,Credit Card,2025,11,November
+ORD1801,2025-04-10,CUST262,Anjali,Electronics,Keyboard,4,899,3596,Delhi,North,Debit Card,2025,4,April
+ORD1802,2025-04-19,CUST306,Sneha,Home,Backpack,5,1299,6495,Chennai,South,Debit Card,2025,4,April
+ORD1803,2025-12-09,CUST178,Priya,Electronics,Mouse,3,599,1797,Coimbatore,South,Debit Card,2025,12,December
+ORD1804,2025-06-22,CUST116,Priya,Electronics,Wireless Headphones,5,1499,7495,Chennai,South,Cash,2025,6,June
+ORD1805,2025-08-25,CUST196,Anjali,Home,Office Chair,2,5499,10998,Chennai,South,Cash,2025,8,August
+ORD1806,2025-06-11,CUST247,Rahul,Books,AI Basics,4,649,2596,Pune,West,Net Banking,2025,6,June
+ORD1807,2025-08-04,CUST102,Meena,Books,AI Basics,4,649,2596,Kochi,South,Debit Card,2025,8,August
+ORD1808,2025-09-21,CUST110,Ravi,Electronics,Smart Watch,2,3299,6598,Coimbatore,South,UPI,2025,9,September
+ORD1809,2025-09-20,CUST225,Vijay,Home,Office Chair,2,5499,10998,Coimbatore,South,Net Banking,2025,9,September
+ORD1810,2025-10-19,CUST181,Rahul,Electronics,Smart Watch,3,3299,9897,Mumbai,West,UPI,2025,10,October
+ORD1811,2025-10-01,CUST240,Anjali,Clothing,Jeans,4,1599,6396,Mumbai,West,Cash,2025,10,October
+ORD1812,2025-01-03,CUST250,Meena,Clothing,Hoodie,4,1899,7596,Coimbatore,South,Net Banking,2025,1,January
+ORD1813,2025-01-28,CUST388,Meena,Electronics,Mouse,3,599,1797,Delhi,North,Net Banking,2025,1,January
+ORD1814,2025-11-22,CUST229,Divya,Books,AI Basics,1,649,649,Bangalore,South,Credit Card,2025,11,November
+ORD1815,2025-05-29,CUST339,Karthik,Books,Python Programming,3,599,1797,Mumbai,West,Cash,2025,5,May
+ORD1816,2025-01-28,CUST158,Priya,Electronics,Smart Watch,5,3299,16495,Bangalore,South,Cash,2025,1,January
+ORD1817,2025-11-06,CUST298,Anjali,Electronics,Keyboard,4,899,3596,Pune,West,Net Banking,2025,11,November
+ORD1818,2025-03-06,CUST311,Ravi,Clothing,T-Shirt,2,699,1398,Delhi,North,Cash,2025,3,March
+ORD1819,2025-12-22,CUST145,Vijay,Books,Data Analytics,5,799,3995,Coimbatore,South,Net Banking,2025,12,December
+ORD1820,2025-01-21,CUST197,Karthik,Electronics,Smart Watch,4,3299,13196,Delhi,North,Credit Card,2025,1,January
+ORD1821,2025-09-09,CUST379,Sneha,Clothing,T-Shirt,3,699,2097,Mumbai,West,Net Banking,2025,9,September
+ORD1822,2025-08-23,CUST123,Sanjay,Books,AI Basics,5,649,3245,Chennai,South,Cash,2025,8,August
+ORD1823,2025-08-15,CUST144,Divya,Home,Desk,4,2999,11996,Pune,West,Cash,2025,8,August
+ORD1824,2025-01-13,CUST127,Sanjay,Clothing,Jacket,1,2999,2999,Coimbatore,South,Net Banking,2025,1,January
+ORD1825,2025-11-09,CUST382,Karthik,Books,Python Programming,1,599,599,Hyderabad,South,Net Banking,2025,11,November
+ORD1826,2025-02-18,CUST197,Karthik,Books,AI Basics,2,649,1298,Pune,West,Net Banking,2025,2,February
+ORD1827,2025-04-28,CUST136,Sanjay,Clothing,Jeans,4,1599,6396,Kochi,South,Debit Card,2025,4,April
+ORD1828,2025-02-23,CUST209,Keerthi,Home,Water Bottle,1,499,499,Bangalore,South,Cash,2025,2,February
+ORD1829,2025-05-18,CUST155,Vijay,Clothing,Hoodie,3,1899,5697,Delhi,North,Cash,2025,5,May
+ORD1830,2025-02-22,CUST292,Vijay,Books,Web Development,4,699,2796,Coimbatore,South,Debit Card,2025,2,February
+ORD1831,2025-02-13,CUST319,Arun,Electronics,Mouse,3,599,1797,Pune,West,Net Banking,2025,2,February
+ORD1832,2025-10-30,CUST285,Ravi,Electronics,Smart Watch,3,3299,9897,Delhi,North,Credit Card,2025,10,October
+ORD1833,2025-02-22,CUST169,Sneha,Clothing,Jacket,1,2999,2999,Coimbatore,South,Net Banking,2025,2,February
+ORD1834,2025-03-15,CUST230,Vijay,Books,SQL Guide,4,499,1996,Mumbai,West,Net Banking,2025,3,March
+ORD1835,2025-02-15,CUST155,Ravi,Electronics,Wireless Headphones,5,1499,7495,Pune,West,Debit Card,2025,2,February
+ORD1836,2025-01-13,CUST197,Sneha,Books,Data Analytics,1,799,799,Mumbai,West,Cash,2025,1,January
+ORD1837,2025-06-14,CUST187,Sneha,Clothing,Jeans,1,1599,1599,Pune,West,Net Banking,2025,6,June
+ORD1838,2025-04-12,CUST394,Karthik,Electronics,Bluetooth Speaker,4,2199,8796,Mumbai,West,Cash,2025,4,April
+ORD1839,2025-10-07,CUST219,Sneha,Books,Data Analytics,4,799,3196,Kochi,South,UPI,2025,10,October
+ORD1840,2025-09-15,CUST308,Divya,Electronics,Mouse,3,599,1797,Delhi,North,Cash,2025,9,September
+ORD1841,2025-12-03,CUST254,Sanjay,Clothing,Jeans,4,1599,6396,Hyderabad,South,Credit Card,2025,12,December
+ORD1842,2025-12-22,CUST135,Keerthi,Books,Web Development,3,699,2097,Pune,West,Credit Card,2025,12,December
+ORD1843,2025-05-18,CUST179,Arun,Electronics,Bluetooth Speaker,1,2199,2199,Kochi,South,Net Banking,2025,5,May
+ORD1844,2025-06-12,CUST167,Anjali,Clothing,Jacket,2,2999,5998,Pune,West,Cash,2025,6,June
+ORD1845,2025-04-21,CUST134,Rahul,Electronics,Mouse,5,599,2995,Mumbai,West,Net Banking,2025,4,April
+ORD1846,2025-04-12,CUST197,Arun,Electronics,Keyboard,1,899,899,Coimbatore,South,Debit Card,2025,4,April
+ORD1847,2025-01-17,CUST269,Divya,Home,Office Chair,4,5499,21996,Pune,West,Credit Card,2025,1,January
+ORD1848,2025-09-25,CUST269,Arun,Home,Backpack,5,1299,6495,Kochi,South,Net Banking,2025,9,September
+ORD1849,2025-07-01,CUST251,Sneha,Clothing,Hoodie,2,1899,3798,Mumbai,West,Debit Card,2025,7,July
+ORD1850,2025-01-24,CUST171,Karthik,Home,Table Lamp,2,799,1598,Chennai,South,Net Banking,2025,1,January
+ORD1851,2025-01-29,CUST103,Rahul,Clothing,T-Shirt,3,699,2097,Mumbai,West,Cash,2025,1,January
+ORD1852,2025-06-20,CUST132,Vijay,Home,Table Lamp,5,799,3995,Delhi,North,Cash,2025,6,June
+ORD1853,2025-08-16,CUST387,Karthik,Electronics,Bluetooth Speaker,3,2199,6597,Hyderabad,South,Cash,2025,8,August
+ORD1854,2025-07-07,CUST182,Sneha,Clothing,Sneakers,1,2499,2499,Chennai,South,Cash,2025,7,July
+ORD1855,2025-12-12,CUST143,Sneha,Clothing,Jacket,5,2999,14995,Delhi,North,UPI,2025,12,December
+ORD1856,2025-08-18,CUST205,Rahul,Electronics,Smart Watch,1,3299,3299,Delhi,North,Debit Card,2025,8,August
+ORD1857,2025-11-17,CUST101,Rahul,Clothing,Hoodie,3,1899,5697,Delhi,North,Debit Card,2025,11,November
+ORD1858,2025-12-06,CUST161,Priya,Clothing,Jeans,5,1599,7995,Coimbatore,South,Cash,2025,12,December
+ORD1859,2025-04-29,CUST370,Meena,Home,Table Lamp,3,799,2397,Delhi,North,UPI,2025,4,April
+ORD1860,2025-06-05,CUST280,Meena,Clothing,Jeans,5,1599,7995,Coimbatore,South,Cash,2025,6,June
+ORD1861,2025-09-29,CUST324,Ravi,Books,Web Development,3,699,2097,Delhi,North,UPI,2025,9,September
+ORD1862,2025-06-24,CUST106,Keerthi,Electronics,Keyboard,2,899,1798,Bangalore,South,Cash,2025,6,June
+ORD1863,2025-04-14,CUST203,Karthik,Home,Backpack,3,1299,3897,Kochi,South,Credit Card,2025,4,April
+ORD1864,2025-04-02,CUST110,Vijay,Home,Backpack,2,1299,2598,Chennai,South,Credit Card,2025,4,April
+ORD1865,2025-07-05,CUST171,Arun,Books,Web Development,3,699,2097,Bangalore,South,Net Banking,2025,7,July
+ORD1866,2025-10-10,CUST190,Sneha,Electronics,Keyboard,5,899,4495,Delhi,North,Cash,2025,10,October
+ORD1867,2025-06-30,CUST326,Sneha,Electronics,Keyboard,5,899,4495,Chennai,South,Debit Card,2025,6,June
+ORD1868,2025-06-19,CUST258,Priya,Home,Office Chair,5,5499,27495,Chennai,South,Net Banking,2025,6,June
+ORD1869,2025-07-06,CUST328,Karthik,Clothing,Sneakers,4,2499,9996,Pune,West,Credit Card,2025,7,July
+ORD1870,2025-06-24,CUST226,Keerthi,Home,Desk,1,2999,2999,Hyderabad,South,Cash,2025,6,June
+ORD1871,2025-08-10,CUST309,Karthik,Electronics,Wireless Headphones,5,1499,7495,Bangalore,South,Net Banking,2025,8,August
+ORD1872,2025-08-21,CUST197,Sanjay,Books,Web Development,2,699,1398,Hyderabad,South,Cash,2025,8,August
+ORD1873,2025-06-11,CUST174,Ravi,Home,Table Lamp,5,799,3995,Chennai,South,Credit Card,2025,6,June
+ORD1874,2025-05-14,CUST215,Rahul,Electronics,Bluetooth Speaker,4,2199,8796,Coimbatore,South,Net Banking,2025,5,May
+ORD1875,2025-08-12,CUST291,Vijay,Home,Table Lamp,2,799,1598,Chennai,South,Credit Card,2025,8,August
+ORD1876,2025-06-02,CUST270,Keerthi,Clothing,Jeans,4,1599,6396,Hyderabad,South,UPI,2025,6,June
+ORD1877,2025-02-02,CUST304,Rahul,Home,Desk,2,2999,5998,Bangalore,South,Credit Card,2025,2,February
+ORD1878,2025-02-24,CUST156,Vijay,Home,Office Chair,3,5499,16497,Delhi,North,Cash,2025,2,February
+ORD1879,2025-01-07,CUST308,Divya,Electronics,Bluetooth Speaker,1,2199,2199,Pune,West,Debit Card,2025,1,January
+ORD1880,2025-09-01,CUST141,Anjali,Electronics,Mouse,1,599,599,Pune,West,Credit Card,2025,9,September
+ORD1881,2025-11-09,CUST132,Ravi,Electronics,Keyboard,4,899,3596,Pune,West,Debit Card,2025,11,November
+ORD1882,2025-05-06,CUST115,Meena,Home,Water Bottle,1,499,499,Delhi,North,UPI,2025,5,May
+ORD1883,2025-01-12,CUST162,Ravi,Clothing,Hoodie,4,1899,7596,Pune,West,Net Banking,2025,1,January
+ORD1884,2025-01-16,CUST255,Meena,Books,Data Analytics,4,799,3196,Bangalore,South,Net Banking,2025,1,January
+ORD1885,2025-07-27,CUST384,Vijay,Books,Web Development,4,699,2796,Delhi,North,Debit Card,2025,7,July
+ORD1886,2025-02-12,CUST309,Meena,Electronics,Mouse,1,599,599,Pune,West,Net Banking,2025,2,February
+ORD1887,2025-05-15,CUST287,Rahul,Electronics,Keyboard,4,899,3596,Delhi,North,Credit Card,2025,5,May
+ORD1888,2025-08-16,CUST230,Ravi,Home,Backpack,1,1299,1299,Hyderabad,South,Debit Card,2025,8,August
+ORD1889,2025-04-21,CUST227,Sneha,Books,Data Analytics,4,799,3196,Kochi,South,Cash,2025,4,April
+ORD1890,2025-11-03,CUST392,Rahul,Electronics,Wireless Headphones,5,1499,7495,Kochi,South,Credit Card,2025,11,November
+ORD1891,2025-06-09,CUST214,Vijay,Clothing,Hoodie,4,1899,7596,Bangalore,South,Credit Card,2025,6,June
+ORD1892,2025-11-27,CUST299,Keerthi,Clothing,Hoodie,2,1899,3798,Mumbai,West,Credit Card,2025,11,November
+ORD1893,2025-09-21,CUST113,Karthik,Electronics,Bluetooth Speaker,4,2199,8796,Coimbatore,South,Cash,2025,9,September
+ORD1894,2025-08-13,CUST371,Rahul,Electronics,Bluetooth Speaker,3,2199,6597,Pune,West,UPI,2025,8,August
+ORD1895,2025-08-05,CUST189,Meena,Books,SQL Guide,4,499,1996,Coimbatore,South,Net Banking,2025,8,August
+ORD1896,2025-02-14,CUST315,Priya,Books,SQL Guide,2,499,998,Delhi,North,Debit Card,2025,2,February
+ORD1897,2025-08-02,CUST378,Sanjay,Home,Backpack,2,1299,2598,Coimbatore,South,UPI,2025,8,August
+ORD1898,2025-02-28,CUST303,Sneha,Books,Web Development,1,699,699,Bangalore,South,Debit Card,2025,2,February
+ORD1899,2025-05-12,CUST174,Meena,Clothing,T-Shirt,5,699,3495,Bangalore,South,Net Banking,2025,5,May
+ORD1900,2025-04-14,CUST125,Priya,Clothing,Hoodie,4,1899,7596,Chennai,South,Cash,2025,4,April
+ORD1901,2025-07-14,CUST201,Vijay,Electronics,Mouse,1,599,599,Kochi,South,Credit Card,2025,7,July
+ORD1902,2025-06-06,CUST276,Divya,Books,Python Programming,5,599,2995,Pune,West,Credit Card,2025,6,June
+ORD1903,2025-04-08,CUST217,Priya,Home,Backpack,4,1299,5196,Chennai,South,Cash,2025,4,April
+ORD1904,2025-08-14,CUST266,Anjali,Clothing,Jacket,3,2999,8997,Coimbatore,South,UPI,2025,8,August
+ORD1905,2025-07-24,CUST141,Divya,Clothing,Hoodie,4,1899,7596,Mumbai,West,UPI,2025,7,July
+ORD1906,2025-03-20,CUST220,Ravi,Home,Water Bottle,2,499,998,Chennai,South,Debit Card,2025,3,March
+ORD1907,2025-05-04,CUST197,Arun,Home,Office Chair,2,5499,10998,Chennai,South,Cash,2025,5,May
+ORD1908,2025-08-06,CUST245,Sneha,Clothing,Sneakers,3,2499,7497,Bangalore,South,UPI,2025,8,August
+ORD1909,2025-01-04,CUST316,Meena,Clothing,Hoodie,1,1899,1899,Mumbai,West,Cash,2025,1,January
+ORD1910,2025-03-31,CUST329,Ravi,Home,Desk,5,2999,14995,Delhi,North,Net Banking,2025,3,March
+ORD1911,2025-04-14,CUST230,Ravi,Clothing,Hoodie,4,1899,7596,Coimbatore,South,Credit Card,2025,4,April
+ORD1912,2025-04-29,CUST237,Arun,Electronics,Wireless Headphones,2,1499,2998,Chennai,South,Credit Card,2025,4,April
+ORD1913,2025-05-13,CUST373,Rahul,Electronics,Keyboard,1,899,899,Mumbai,West,Credit Card,2025,5,May
+ORD1914,2025-11-08,CUST217,Vijay,Home,Water Bottle,3,499,1497,Kochi,South,Cash,2025,11,November
+ORD1915,2025-04-06,CUST194,Sneha,Books,AI Basics,2,649,1298,Pune,West,Cash,2025,4,April
+ORD1916,2025-11-27,CUST268,Karthik,Home,Backpack,3,1299,3897,Mumbai,West,Debit Card,2025,11,November
+ORD1917,2025-05-23,CUST303,Ravi,Home,Backpack,4,1299,5196,Kochi,South,Credit Card,2025,5,May
+ORD1918,2025-10-15,CUST249,Divya,Books,Data Analytics,5,799,3995,Coimbatore,South,Debit Card,2025,10,October
+ORD1919,2025-01-28,CUST283,Ravi,Books,Web Development,2,699,1398,Mumbai,West,Credit Card,2025,1,January
+ORD1920,2025-10-05,CUST252,Karthik,Books,Data Analytics,2,799,1598,Kochi,South,Debit Card,2025,10,October
+ORD1921,2025-08-21,CUST174,Ravi,Electronics,Wireless Headphones,4,1499,5996,Mumbai,West,Debit Card,2025,8,August
+ORD1922,2025-01-17,CUST374,Arun,Clothing,Jacket,1,2999,2999,Mumbai,West,Net Banking,2025,1,January
+ORD1923,2025-02-28,CUST142,Priya,Electronics,Smart Watch,5,3299,16495,Pune,West,Debit Card,2025,2,February
+ORD1924,2025-03-31,CUST312,Unknown,Clothing,Hoodie,2,1899,3798,Kochi,South,Cash,2025,3,March
+ORD1925,2025-07-18,CUST201,Keerthi,Electronics,Wireless Headphones,5,1499,7495,Kochi,South,Debit Card,2025,7,July
+ORD1926,2025-12-28,CUST145,Vijay,Clothing,Jeans,2,1599,3198,Chennai,South,Credit Card,2025,12,December
+ORD1927,2025-01-26,CUST182,Arun,Electronics,Keyboard,5,899,4495,Coimbatore,South,Debit Card,2025,1,January
+ORD1928,2025-01-25,CUST117,Sanjay,Books,SQL Guide,3,499,1497,Pune,West,UPI,2025,1,January
+ORD1929,2025-10-28,CUST173,Ravi,Home,Backpack,2,1299,2598,Mumbai,West,Credit Card,2025,10,October
+ORD1930,2025-12-05,CUST114,Sneha,Electronics,Smart Watch,5,3299,16495,Mumbai,West,UPI,2025,12,December
+ORD1931,2025-09-24,CUST257,Divya,Clothing,T-Shirt,1,699,699,Chennai,South,Credit Card,2025,9,September
+ORD1932,2025-06-30,CUST323,Priya,Books,Python Programming,3,599,1797,Coimbatore,South,Cash,2025,6,June
+ORD1933,2025-12-26,CUST232,Priya,Electronics,Keyboard,3,899,2697,Bangalore,South,Cash,2025,12,December
+ORD1934,2025-03-09,CUST147,Karthik,Electronics,Bluetooth Speaker,1,2199,2199,Pune,West,Cash,2025,3,March
+ORD1935,2025-12-17,CUST207,Karthik,Books,Web Development,5,699,3495,Chennai,South,UPI,2025,12,December
+ORD1936,2025-11-17,CUST208,Keerthi,Electronics,Smart Watch,4,3299,13196,Coimbatore,South,Net Banking,2025,11,November
+ORD1937,2025-02-18,CUST365,Meena,Home,Water Bottle,1,499,499,Pune,West,Credit Card,2025,2,February
+ORD1938,2025-06-24,CUST305,Rahul,Electronics,Wireless Headphones,5,1499,7495,Mumbai,West,Cash,2025,6,June
+ORD1939,2025-02-21,CUST179,Sanjay,Home,Table Lamp,1,799,799,Coimbatore,South,Credit Card,2025,2,February
+ORD1940,2025-04-12,CUST255,Karthik,Home,Backpack,1,1299,1299,Coimbatore,South,UPI,2025,4,April
+ORD1941,2025-08-04,CUST371,Karthik,Books,AI Basics,2,649,1298,Delhi,North,Net Banking,2025,8,August
+ORD1942,2025-07-07,CUST347,Keerthi,Electronics,Smart Watch,5,3299,16495,Coimbatore,South,UPI,2025,7,July
+ORD1943,2025-02-26,CUST119,Sneha,Books,SQL Guide,4,499,1996,Bangalore,South,Credit Card,2025,2,February
+ORD1944,2025-02-16,CUST126,Meena,Electronics,Keyboard,2,899,1798,Coimbatore,South,Net Banking,2025,2,February
+ORD1945,2025-06-08,CUST317,Karthik,Electronics,Smart Watch,1,3299,3299,Bangalore,South,Net Banking,2025,6,June
+ORD1946,2025-06-23,CUST254,Keerthi,Clothing,Jacket,1,2999,2999,Mumbai,West,UPI,2025,6,June
+ORD1947,2025-08-30,CUST254,Divya,Electronics,Keyboard,1,899,899,Bangalore,South,Cash,2025,8,August
+ORD1948,2025-10-09,CUST274,Sneha,Books,AI Basics,5,649,3245,Pune,West,Credit Card,2025,10,October
+ORD1949,2025-08-29,CUST192,Rahul,Home,Water Bottle,5,499,2495,Mumbai,West,Debit Card,2025,8,August
+ORD1950,2025-01-05,CUST281,Arun,Electronics,Bluetooth Speaker,2,2199,4398,Mumbai,West,Debit Card,2025,1,January
+ORD1951,2025-03-25,CUST231,Sneha,Clothing,Hoodie,4,1899,7596,Bangalore,South,UPI,2025,3,March
+ORD1952,2025-11-04,CUST398,Arun,Books,Web Development,2,699,1398,Kochi,South,Credit Card,2025,11,November
+ORD1953,2025-12-27,CUST375,Priya,Electronics,Wireless Headphones,3,1499,4497,Chennai,South,Credit Card,2025,12,December
+ORD1954,2025-09-05,CUST373,Meena,Books,Python Programming,1,599,599,Hyderabad,South,UPI,2025,9,September
+ORD1955,2025-02-23,CUST176,Rahul,Clothing,Sneakers,1,2499,2499,Kochi,South,Credit Card,2025,2,February
+ORD1956,2025-06-10,CUST277,Meena,Clothing,Sneakers,1,2499,2499,Coimbatore,South,Cash,2025,6,June
+ORD1957,2025-08-14,CUST284,Rahul,Books,Web Development,2,699,1398,Delhi,North,UPI,2025,8,August
+ORD1958,2025-01-15,CUST231,Meena,Electronics,Wireless Headphones,2,1499,2998,Hyderabad,South,Cash,2025,1,January
+ORD1959,2025-08-12,CUST149,Sneha,Home,Table Lamp,1,799,799,Coimbatore,South,Credit Card,2025,8,August
+ORD1960,2025-03-02,CUST155,Keerthi,Clothing,Sneakers,2,2499,4998,Kochi,South,UPI,2025,3,March
+ORD1961,2025-05-02,CUST254,Meena,Electronics,Mouse,5,599,2995,Kochi,South,Credit Card,2025,5,May
+ORD1962,2025-10-04,CUST300,Anjali,Electronics,Mouse,5,599,2995,Coimbatore,South,UPI,2025,10,October
+ORD1963,2025-02-15,CUST218,Rahul,Home,Office Chair,2,5499,10998,Mumbai,West,Credit Card,2025,2,February
+ORD1964,2025-10-21,CUST363,Ravi,Clothing,Hoodie,1,1899,1899,Coimbatore,South,Cash,2025,10,October
+ORD1965,2025-03-03,CUST146,Arun,Clothing,Jacket,2,2999,5998,Delhi,North,Cash,2025,3,March
+ORD1966,2025-03-27,CUST289,Rahul,Electronics,Wireless Headphones,2,1499,2998,Kochi,South,Credit Card,2025,3,March
+ORD1967,2025-07-29,CUST229,Priya,Electronics,Mouse,2,599,1198,Coimbatore,South,UPI,2025,7,July
+ORD1968,2025-03-19,CUST149,Divya,Home,Office Chair,3,5499,16497,Bangalore,South,Debit Card,2025,3,March
+ORD1969,2025-07-21,CUST125,Anjali,Home,Office Chair,5,5499,27495,Hyderabad,South,Cash,2025,7,July
+ORD1970,2025-10-29,CUST366,Vijay,Clothing,Hoodie,4,1899,7596,Bangalore,South,Cash,2025,10,October
+ORD1971,2025-08-11,CUST218,Ravi,Books,AI Basics,4,649,2596,Delhi,North,Unknown,2025,8,August
+ORD1972,2025-08-10,CUST244,Rahul,Clothing,T-Shirt,3,699,2097,Coimbatore,South,Credit Card,2025,8,August
+ORD1973,2025-01-03,CUST300,Karthik,Electronics,Wireless Headphones,2,1499,2998,Pune,West,UPI,2025,1,January
+ORD1974,2025-01-06,CUST257,Sneha,Clothing,Sneakers,3,2499,7497,Delhi,North,Credit Card,2025,1,January
+ORD1975,2025-04-03,CUST234,Ravi,Books,Python Programming,3,599,1797,Mumbai,West,Net Banking,2025,4,April
+ORD1976,2025-01-08,CUST248,Sneha,Home,Desk,1,2999,2999,Bangalore,South,Cash,2025,1,January
+ORD1977,2025-08-23,CUST171,Meena,Books,Data Analytics,5,799,3995,Bangalore,South,Net Banking,2025,8,August
+ORD1978,2025-04-18,CUST333,Meena,Books,Python Programming,4,599,2396,Chennai,South,Cash,2025,4,April
+ORD1979,2025-06-10,CUST399,Ravi,Books,Python Programming,2,599,1198,Coimbatore,South,Cash,2025,6,June
+ORD1980,2025-07-28,CUST254,Sneha,Home,Water Bottle,4,499,1996,Mumbai,West,Net Banking,2025,7,July
+ORD1981,2025-08-28,CUST190,Sanjay,Books,Python Programming,4,599,2396,Pune,West,Net Banking,2025,8,August
+ORD1982,2025-11-27,CUST299,Ravi,Books,Web Development,5,699,3495,Bangalore,South,Credit Card,2025,11,November
+ORD1983,2025-11-29,CUST261,Anjali,Books,Web Development,4,699,2796,Bangalore,South,Net Banking,2025,11,November
+ORD1984,2025-02-19,CUST126,Anjali,Electronics,Wireless Headphones,4,1499,5996,Mumbai,West,Credit Card,2025,2,February
+ORD1985,2025-01-11,CUST221,Arun,Books,SQL Guide,3,499,1497,Delhi,North,Credit Card,2025,1,January
+ORD1986,2025-12-17,CUST312,Rahul,Home,Office Chair,5,5499,27495,Delhi,North,Credit Card,2025,12,December
+ORD1987,2025-06-05,CUST163,Vijay,Books,Web Development,1,699,699,Coimbatore,South,Cash,2025,6,June
+ORD1988,2025-03-11,CUST168,Sneha,Books,Python Programming,2,599,1198,Kochi,South,Cash,2025,3,March
+ORD1989,2025-06-18,CUST353,Rahul,Home,Office Chair,4,5499,21996,Chennai,South,Net Banking,2025,6,June
+ORD1990,2025-09-29,CUST102,Anjali,Books,Python Programming,2,599,1198,Bangalore,South,Cash,2025,9,September
+ORD1991,2025-03-09,CUST208,Priya,Home,Table Lamp,1,799,799,Kochi,South,Net Banking,2025,3,March
+ORD1992,2025-12-21,CUST386,Sneha,Books,Python Programming,2,599,1198,Kochi,South,Cash,2025,12,December
+ORD1993,2025-09-09,CUST149,Rahul,Home,Backpack,1,1299,1299,Chennai,South,UPI,2025,9,September
+ORD1994,2025-02-17,CUST240,Anjali,Books,Python Programming,3,599,1797,Kochi,South,UPI,2025,2,February
+ORD1995,2025-07-03,CUST318,Divya,Books,AI Basics,4,649,2596,Kochi,South,Net Banking,2025,7,July
+ORD1996,2025-11-16,CUST144,Anjali,Electronics,Keyboard,1,899,899,Delhi,North,Cash,2025,11,November
+ORD1997,2025-07-06,CUST369,Meena,Electronics,Bluetooth Speaker,2,2199,4398,Delhi,North,Cash,2025,7,July
+ORD1998,2025-03-31,CUST178,Karthik,Books,SQL Guide,4,499,1996,Hyderabad,South,Credit Card,2025,3,March
+ORD1999,2025-11-28,CUST316,Sanjay,Books,SQL Guide,3,499,1497,Pune,West,Debit Card,2025,11,November
+ORD2000,2025-05-19,CUST198,Sanjay,Clothing,Jeans,4,1599,6396,Coimbatore,South,Net Banking,2025,5,May
