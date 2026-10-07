@@ -33,7 +33,7 @@ An interactive sales analysis dashboard built using Google Looker Studio to anal
 
 ## Live Dashboard
 
-[View Interactive Sales Performance Dashboard]([YOUR_LOOKER_STUDIO_LINK](https://datastudio.google.com/reporting/58aa84a1-03f6-4fff-871e-9e537ac43312))
+[View Interactive Sales Performance Dashboard](https://datastudio.google.com/reporting/58aa84a1-03f6-4fff-871e-9e537ac43312)
 
 ## Dataset
 
