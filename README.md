@@ -31,6 +31,10 @@ An interactive sales analysis dashboard built using Google Looker Studio to anal
 
 ![Sales Performance Dashboard](dashboard.png)
 
+## Live Dashboard
+
+[View Interactive Sales Performance Dashboard]([YOUR_LOOKER_STUDIO_LINK](https://datastudio.google.com/reporting/58aa84a1-03f6-4fff-871e-9e537ac43312))
+
 ## Dataset
 
 The project uses a cleaned sales dataset containing information about orders, customers, products, cities, categories, payment methods, quantities, and sales.
